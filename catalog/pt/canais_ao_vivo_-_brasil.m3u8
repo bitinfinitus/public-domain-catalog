@@ -2,42 +2,42 @@
 #PLAYLIST:Domínio Público - Canais ao Vivo - Brasil
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logotipo_da_TV_Brasil.svg/512px-Logotipo_da_TV_Brasil.svg.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC)
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_brasil.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC)
 #EXTGRP:Canais ao Vivo - Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (EBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logotipo_do_Canal_Gov.svg/512px-Logotipo_do_Canal_Gov.svg.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (EBC)
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (EBC)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_gov.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (EBC)
 #EXTGRP:Canais ao Vivo - Brasil
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_TV_Cultura_2020.svg/512px-Logo_TV_Cultura_2020.svg.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Cultura
+#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_cultura.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Cultura
 #EXTGRP:Canais ao Vivo - Brasil
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TV_Senado_logo.svg/512px-TV_Senado_logo.svg.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Senado
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_senado.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Senado
 #EXTGRP:Canais ao Vivo - Brasil
 http://170.83.16.50/TV_SENADO/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_TV_C%C3%A2mara.svg/512px-Logo_TV_C%C3%A2mara.svg.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Câmara
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_camara.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Câmara
 #EXTGRP:Canais ao Vivo - Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_TV_Justi%C3%A7a.png/512px-Logo_TV_Justi%C3%A7a.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Justiça
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_justica.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Justiça
 #EXTGRP:Canais ao Vivo - Brasil
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (MEC / EBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_Educa%C3%A7%C3%A3o_logo_2023.png/512px-Canal_Educa%C3%A7%C3%A3o_logo_2023.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (MEC / EBC)
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (MEC / EBC)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_educacao.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (MEC / EBC)
 #EXTGRP:Canais ao Vivo - Brasil
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Logotipo_do_Canal_Futura.png/512px-Logotipo_do_Canal_Futura.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Futura
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_futura.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",Canal Futura
 #EXTGRP:Canais ao Vivo - Brasil
 http://170.83.16.50/FUTURA/index.m3u8
 
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (IRDEB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_TVE_Bahia_2017.png/512px-Logo_TVE_Bahia_2017.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (IRDEB)
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (IRDEB)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tve_bahia.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (IRDEB)
 #EXTGRP:Canais ao Vivo - Brasil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura do Pará (FUNTELPA)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/TV_Cultura_do_Par%C3%A1_logo.png/512px-TV_Cultura_do_Par%C3%A1_logo.png" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Cultura do Pará (FUNTELPA)
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura do Pará (FUNTELPA)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/cultura_para.svg" group-title="Canais ao Vivo - Brasil" tvg-language="pt-BR" tvg-country="BR",TV Cultura do Pará (FUNTELPA)
 #EXTGRP:Canais ao Vivo - Brasil
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8

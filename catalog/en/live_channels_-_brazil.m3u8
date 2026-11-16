@@ -2,42 +2,42 @@
 #PLAYLIST:Public Domain - Live Channels - Brazil
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC National Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logotipo_da_TV_Brasil.svg/512px-Logotipo_da_TV_Brasil.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC National Public TV)
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC National Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_brasil.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC National Public TV)
 #EXTGRP:Live Channels - Brazil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (Brazil Government TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logotipo_do_Canal_Gov.svg/512px-Logotipo_do_Canal_Gov.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (Brazil Government TV)
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (Brazil Government TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_gov.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (Brazil Government TV)
 #EXTGRP:Live Channels - Brazil
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura (Padre Anchieta Foundation)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_TV_Cultura_2020.svg/512px-Logo_TV_Cultura_2020.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura (Padre Anchieta Foundation)
+#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura (Padre Anchieta Foundation)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_cultura.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura (Padre Anchieta Foundation)
 #EXTGRP:Live Channels - Brazil
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado (Federal Senate of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TV_Senado_logo.svg/512px-TV_Senado_logo.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Senado (Federal Senate of Brazil)
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado (Federal Senate of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_senado.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Senado (Federal Senate of Brazil)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/TV_SENADO/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara (Chamber of Deputies of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_TV_C%C3%A2mara.svg/512px-Logo_TV_C%C3%A2mara.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Câmara (Chamber of Deputies of Brazil)
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara (Chamber of Deputies of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_camara.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Câmara (Chamber of Deputies of Brazil)
 #EXTGRP:Live Channels - Brazil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça (Supreme Federal Court of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_TV_Justi%C3%A7a.png/512px-Logo_TV_Justi%C3%A7a.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Justiça (Supreme Federal Court of Brazil)
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça (Supreme Federal Court of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_justica.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Justiça (Supreme Federal Court of Brazil)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (Ministry of Education / EBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_Educa%C3%A7%C3%A3o_logo_2023.png/512px-Canal_Educa%C3%A7%C3%A3o_logo_2023.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (Ministry of Education / EBC)
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (Ministry of Education / EBC)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_educacao.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (Ministry of Education / EBC)
 #EXTGRP:Live Channels - Brazil
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (Educational Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Logotipo_do_Canal_Futura.png/512px-Logotipo_do_Canal_Futura.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Futura (Educational Public TV)
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (Educational Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_futura.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Futura (Educational Public TV)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/FUTURA/index.m3u8
 
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (Bahia Public Broadcaster)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_TVE_Bahia_2017.png/512px-Logo_TVE_Bahia_2017.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (Bahia Public Broadcaster)
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (Bahia Public Broadcaster)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tve_bahia.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (Bahia Public Broadcaster)
 #EXTGRP:Live Channels - Brazil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará (Amazonian Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/TV_Cultura_do_Par%C3%A1_logo.png/512px-TV_Cultura_do_Par%C3%A1_logo.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura Pará (Amazonian Public TV)
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará (Amazonian Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/cultura_para.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura Pará (Amazonian Public TV)
 #EXTGRP:Live Channels - Brazil
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8

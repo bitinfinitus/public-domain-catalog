@@ -2,18 +2,18 @@
 #PLAYLIST:Domínio Público - Canais ao Vivo - Estados Unidos & Global
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (Nações Unidas)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (Nações Unidas)
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (Nações Unidas)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/un_web_tv.svg" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (Nações Unidas)
 #EXTGRP:Canais ao Vivo - Estados Unidos & Global
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Classic_Arts_Showcase_logo.png/512px-Classic_Arts_Showcase_logo.png" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/classic_arts_showcase.svg" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase
 #EXTGRP:Canais ao Vivo - Estados Unidos & Global
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Create_TV_logo.svg/512px-Create_TV_logo.svg.png" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",Create TV (PBS)
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/create_tv.svg" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",Create TV (PBS)
 #EXTGRP:Canais ao Vivo - Estados Unidos & Global
 https://create.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN - District of Columbia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/512px-Flag_of_the_District_of_Columbia.svg.png" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",DCN - District of Columbia Network
+#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN - District of Columbia Network" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/dcn_washington.svg" group-title="Canais ao Vivo - Estados Unidos & Global" tvg-language="en" tvg-country="US",DCN - District of Columbia Network
 #EXTGRP:Canais ao Vivo - Estados Unidos & Global
 https://video.oct.dc.gov/out/u/DCN.m3u8

@@ -2,18 +2,18 @@
 #PLAYLIST:Public Domain - Live Channels - United States & Global
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (United Nations Global Webcast)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Live Channels - United States & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (United Nations Global Webcast)
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (United Nations Global Webcast)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/un_web_tv.svg" group-title="Live Channels - United States & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (United Nations Global Webcast)
 #EXTGRP:Live Channels - United States & Global
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase (Public Domain Arts & Opera)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Classic_Arts_Showcase_logo.png/512px-Classic_Arts_Showcase_logo.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase (Public Domain Arts & Opera)
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase (Public Domain Arts & Opera)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/classic_arts_showcase.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase (Public Domain Arts & Opera)
 #EXTGRP:Live Channels - United States & Global
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS Educational Network)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Create_TV_logo.svg/512px-Create_TV_logo.svg.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Create TV (PBS Educational Network)
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS Educational Network)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/create_tv.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Create TV (PBS Educational Network)
 #EXTGRP:Live Channels - United States & Global
 https://create.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN (Washington D.C. Capital Network)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/512px-Flag_of_the_District_of_Columbia.svg.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",DCN (Washington D.C. Capital Network)
+#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN (Washington D.C. Capital Network)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/dcn_washington.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",DCN (Washington D.C. Capital Network)
 #EXTGRP:Live Channels - United States & Global
 https://video.oct.dc.gov/out/u/DCN.m3u8

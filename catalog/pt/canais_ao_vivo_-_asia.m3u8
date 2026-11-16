@@ -2,14 +2,14 @@
 #PLAYLIST:Domínio Público - Canais ao Vivo - Ásia
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NHK_World-Japan_logo_2020.svg/512px-NHK_World-Japan_logo_2020.svg.png" group-title="Canais ao Vivo - Ásia" tvg-language="en" tvg-country="JP",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/nhk_world.svg" group-title="Canais ao Vivo - Ásia" tvg-language="en" tvg-country="JP",NHK World-Japan
 #EXTGRP:Canais ao Vivo - Ásia
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 
-#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV - Korea Policy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/512px-Flag_of_South_Korea.svg.png" group-title="Canais ao Vivo - Ásia" tvg-language="ko" tvg-country="KR",KTV - Korea Policy TV
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV - Korea Policy TV" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/ktv_korea.svg" group-title="Canais ao Vivo - Ásia" tvg-language="ko" tvg-country="KR",KTV - Korea Policy TV
 #EXTGRP:Canais ao Vivo - Ásia
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arirang_TV_logo.svg/512px-Arirang_TV_logo.svg.png" group-title="Canais ao Vivo - Ásia" tvg-language="en" tvg-country="KR",Arirang TV
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/arirang_tv.svg" group-title="Canais ao Vivo - Ásia" tvg-language="en" tvg-country="KR",Arirang TV
 #EXTGRP:Canais ao Vivo - Ásia
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8

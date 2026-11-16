@@ -2,30 +2,30 @@
 #PLAYLIST:Public Domain - Live Channels - Latin America
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia (Colombia National Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Señal Colombia (Colombia National Public TV)
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia (Colombia National Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/senal_colombia.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Señal Colombia (Colombia National Public TV)
 #EXTGRP:Live Channels - Latin America
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional (Colombia State TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Institucional_logo_2018.png/512px-Canal_Institucional_logo_2018.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Institucional (Colombia State TV)
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional (Colombia State TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_institucional_co.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Institucional (Colombia State TV)
 #EXTGRP:Live Channels - Latin America
 http://190.61.47.54:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso (Congress of Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_del_Congreso_de_la_Rep%C3%BAblica_de_Colombia.png/512px-Logo_del_Congreso_de_la_Rep%C3%BAblica_de_Colombia.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Congreso (Congress of Colombia)
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso (Congress of Colombia)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_congreso_co.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Congreso (Congress of Colombia)
 #EXTGRP:Live Channels - Latin America
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado (Senate of Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Senado_de_Chile.svg/512px-Logo_Senado_de_Chile.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CL",TV Senado (Senate of Chile)
+#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado (Senate of Chile)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_senado_cl.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CL",TV Senado (Senate of Chile)
 #EXTGRP:Live Channels - Latin America
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú (National Public Broadcaster)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TV_Per%C3%BA_logo_2019.png/512px-TV_Per%C3%BA_logo_2019.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",TV Perú (National Public Broadcaster)
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú (National Public Broadcaster)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_peru.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",TV Perú (National Public Broadcaster)
 #EXTGRP:Live Channels - Latin America
 http://181.224.200.5:2277/play/a0dx/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe (Peru Cultural & Children's Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_IPe_logo_2020.png/512px-Canal_IPe_logo_2020.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Canal IPe (Peru Cultural & Children's Public TV)
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe (Peru Cultural & Children's Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_ipe_pe.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Canal IPe (Peru Cultural & Children's Public TV)
 #EXTGRP:Live Channels - Latin America
 http://187.102.210.46/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24 (Peru Ministry of Culture)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_nacional_del_Per%C3%BA.svg/512px-Escudo_nacional_del_Per%C3%BA.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Cultura 24 (Peru Ministry of Culture)
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24 (Peru Ministry of Culture)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/cultura_24_pe.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Cultura 24 (Peru Ministry of Culture)
 #EXTGRP:Live Channels - Latin America
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8

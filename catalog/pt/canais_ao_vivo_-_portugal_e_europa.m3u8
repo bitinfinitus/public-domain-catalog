@@ -2,26 +2,26 @@
 #PLAYLIST:Domínio Público - Canais ao Vivo - Portugal & Europa
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV - Canal Parlamento (Portugal)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/29/Canal_Parlamento.png/512px-Canal_Parlamento.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="pt-PT" tvg-country="PT",ARTV - Canal Parlamento (Portugal)
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV - Canal Parlamento (Portugal)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/artv_portugal.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="pt-PT" tvg-country="PT",ARTV - Canal Parlamento (Portugal)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews (Edição em Português)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Euronews_logo_2016.svg/512px-Euronews_logo_2016.svg.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="pt" tvg-country="EU",Euronews (Edição em Português)
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews (Edição em Português)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/euronews_pt.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="pt" tvg-country="EU",Euronews (Edição em Português)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento (Espanha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logo_Congreso_de_los_Diputados.svg/512px-Logo_Congreso_de_los_Diputados.svg.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="es" tvg-country="ES",Canal Parlamento (Espanha)
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento (Espanha)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_parlamento_es.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="es" tvg-country="ES",Canal Parlamento (Espanha)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha (Alemanha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ARD-alpha_2019.svg/512px-ARD-alpha_2019.svg.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="de" tvg-country="DE",ARD-alpha (Alemanha)
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha (Alemanha)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/ard_alpha.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="de" tvg-country="DE",ARD-alpha (Alemanha)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV (Itália)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_Senato_della_Repubblica.svg/512px-Logo_Senato_della_Repubblica.svg.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="it" tvg-country="IT",Senato TV (Itália)
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV (Itália)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/senato_tv_it.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="it" tvg-country="IT",Senato TV (Itália)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati (Itália)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_the_Chamber_of_Deputies_%28Italy%29.svg/512px-Emblem_of_the_Chamber_of_Deputies_%28Italy%29.svg.png" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="it" tvg-country="IT",Camera dei Deputati (Itália)
+#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati (Itália)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/camera_deputati_it.svg" group-title="Canais ao Vivo - Portugal & Europa" tvg-language="it" tvg-country="IT",Camera dei Deputati (Itália)
 #EXTGRP:Canais ao Vivo - Portugal & Europa
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8

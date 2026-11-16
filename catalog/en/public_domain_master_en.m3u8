@@ -2,123 +2,123 @@
 #PLAYLIST:Official Public Domain Catalog (Master EN)
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC National Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logotipo_da_TV_Brasil.svg/512px-Logotipo_da_TV_Brasil.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC National Public TV)
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil (EBC National Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_brasil.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Brasil (EBC National Public TV)
 #EXTGRP:Live Channels - Brazil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (Brazil Government TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logotipo_do_Canal_Gov.svg/512px-Logotipo_do_Canal_Gov.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (Brazil Government TV)
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov (Brazil Government TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_gov.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Gov (Brazil Government TV)
 #EXTGRP:Live Channels - Brazil
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura (Padre Anchieta Foundation)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_TV_Cultura_2020.svg/512px-Logo_TV_Cultura_2020.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura (Padre Anchieta Foundation)
+#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="TV Cultura (Padre Anchieta Foundation)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_cultura.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura (Padre Anchieta Foundation)
 #EXTGRP:Live Channels - Brazil
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado (Federal Senate of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TV_Senado_logo.svg/512px-TV_Senado_logo.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Senado (Federal Senate of Brazil)
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado (Federal Senate of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_senado.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Senado (Federal Senate of Brazil)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/TV_SENADO/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara (Chamber of Deputies of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_TV_C%C3%A2mara.svg/512px-Logo_TV_C%C3%A2mara.svg.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Câmara (Chamber of Deputies of Brazil)
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara (Chamber of Deputies of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_camara.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Câmara (Chamber of Deputies of Brazil)
 #EXTGRP:Live Channels - Brazil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça (Supreme Federal Court of Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_TV_Justi%C3%A7a.png/512px-Logo_TV_Justi%C3%A7a.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Justiça (Supreme Federal Court of Brazil)
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça (Supreme Federal Court of Brazil)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_justica.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Justiça (Supreme Federal Court of Brazil)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (Ministry of Education / EBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_Educa%C3%A7%C3%A3o_logo_2023.png/512px-Canal_Educa%C3%A7%C3%A3o_logo_2023.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (Ministry of Education / EBC)
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educação (Ministry of Education / EBC)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_educacao.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Educação (Ministry of Education / EBC)
 #EXTGRP:Live Channels - Brazil
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (Educational Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Logotipo_do_Canal_Futura.png/512px-Logotipo_do_Canal_Futura.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Futura (Educational Public TV)
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (Educational Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_futura.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",Canal Futura (Educational Public TV)
 #EXTGRP:Live Channels - Brazil
 http://170.83.16.50/FUTURA/index.m3u8
 
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (Bahia Public Broadcaster)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_TVE_Bahia_2017.png/512px-Logo_TVE_Bahia_2017.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (Bahia Public Broadcaster)
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia (Bahia Public Broadcaster)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tve_bahia.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TVE Bahia (Bahia Public Broadcaster)
 #EXTGRP:Live Channels - Brazil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará (Amazonian Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/TV_Cultura_do_Par%C3%A1_logo.png/512px-TV_Cultura_do_Par%C3%A1_logo.png" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura Pará (Amazonian Public TV)
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="TV Cultura Pará (Amazonian Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/cultura_para.svg" group-title="Live Channels - Brazil" tvg-language="pt-BR" tvg-country="BR",TV Cultura Pará (Amazonian Public TV)
 #EXTGRP:Live Channels - Brazil
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV - Parliament Channel (Portugal)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/29/Canal_Parlamento.png/512px-Canal_Parlamento.png" group-title="Live Channels - Portugal & Europe" tvg-language="pt-PT" tvg-country="PT",ARTV - Parliament Channel (Portugal)
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV - Parliament Channel (Portugal)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/artv_portugal.svg" group-title="Live Channels - Portugal & Europe" tvg-language="pt-PT" tvg-country="PT",ARTV - Parliament Channel (Portugal)
 #EXTGRP:Live Channels - Portugal & Europe
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews (Portuguese Edition)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Euronews_logo_2016.svg/512px-Euronews_logo_2016.svg.png" group-title="Live Channels - Portugal & Europe" tvg-language="pt" tvg-country="EU",Euronews (Portuguese Edition)
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews (Portuguese Edition)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/euronews_pt.svg" group-title="Live Channels - Portugal & Europe" tvg-language="pt" tvg-country="EU",Euronews (Portuguese Edition)
 #EXTGRP:Live Channels - Portugal & Europe
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento (Spain Congress of Deputies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logo_Congreso_de_los_Diputados.svg/512px-Logo_Congreso_de_los_Diputados.svg.png" group-title="Live Channels - Portugal & Europe" tvg-language="es" tvg-country="ES",Canal Parlamento (Spain Congress of Deputies)
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento (Spain Congress of Deputies)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_parlamento_es.svg" group-title="Live Channels - Portugal & Europe" tvg-language="es" tvg-country="ES",Canal Parlamento (Spain Congress of Deputies)
 #EXTGRP:Live Channels - Portugal & Europe
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha (German Science & Educational TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ARD-alpha_2019.svg/512px-ARD-alpha_2019.svg.png" group-title="Live Channels - Portugal & Europe" tvg-language="de" tvg-country="DE",ARD-alpha (German Science & Educational TV)
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha (German Science & Educational TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/ard_alpha.svg" group-title="Live Channels - Portugal & Europe" tvg-language="de" tvg-country="DE",ARD-alpha (German Science & Educational TV)
 #EXTGRP:Live Channels - Portugal & Europe
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV (Senate of the Republic of Italy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_Senato_della_Repubblica.svg/512px-Logo_Senato_della_Repubblica.svg.png" group-title="Live Channels - Portugal & Europe" tvg-language="it" tvg-country="IT",Senato TV (Senate of the Republic of Italy)
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV (Senate of the Republic of Italy)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/senato_tv_it.svg" group-title="Live Channels - Portugal & Europe" tvg-language="it" tvg-country="IT",Senato TV (Senate of the Republic of Italy)
 #EXTGRP:Live Channels - Portugal & Europe
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati (Chamber of Deputies of Italy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_the_Chamber_of_Deputies_%28Italy%29.svg/512px-Emblem_of_the_Chamber_of_Deputies_%28Italy%29.svg.png" group-title="Live Channels - Portugal & Europe" tvg-language="it" tvg-country="IT",Camera dei Deputati (Chamber of Deputies of Italy)
+#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati (Chamber of Deputies of Italy)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/camera_deputati_it.svg" group-title="Live Channels - Portugal & Europe" tvg-language="it" tvg-country="IT",Camera dei Deputati (Chamber of Deputies of Italy)
 #EXTGRP:Live Channels - Portugal & Europe
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia (Colombia National Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Señal Colombia (Colombia National Public TV)
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia (Colombia National Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/senal_colombia.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Señal Colombia (Colombia National Public TV)
 #EXTGRP:Live Channels - Latin America
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional (Colombia State TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Institucional_logo_2018.png/512px-Canal_Institucional_logo_2018.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Institucional (Colombia State TV)
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional (Colombia State TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_institucional_co.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Institucional (Colombia State TV)
 #EXTGRP:Live Channels - Latin America
 http://190.61.47.54:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso (Congress of Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_del_Congreso_de_la_Rep%C3%BAblica_de_Colombia.png/512px-Logo_del_Congreso_de_la_Rep%C3%BAblica_de_Colombia.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Congreso (Congress of Colombia)
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso (Congress of Colombia)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_congreso_co.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CO",Canal Congreso (Congress of Colombia)
 #EXTGRP:Live Channels - Latin America
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado (Senate of Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Senado_de_Chile.svg/512px-Logo_Senado_de_Chile.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CL",TV Senado (Senate of Chile)
+#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado (Senate of Chile)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_senado_cl.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="CL",TV Senado (Senate of Chile)
 #EXTGRP:Live Channels - Latin America
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú (National Public Broadcaster)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TV_Per%C3%BA_logo_2019.png/512px-TV_Per%C3%BA_logo_2019.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",TV Perú (National Public Broadcaster)
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú (National Public Broadcaster)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/tv_peru.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",TV Perú (National Public Broadcaster)
 #EXTGRP:Live Channels - Latin America
 http://181.224.200.5:2277/play/a0dx/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe (Peru Cultural & Children's Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_IPe_logo_2020.png/512px-Canal_IPe_logo_2020.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Canal IPe (Peru Cultural & Children's Public TV)
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe (Peru Cultural & Children's Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/canal_ipe_pe.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Canal IPe (Peru Cultural & Children's Public TV)
 #EXTGRP:Live Channels - Latin America
 http://187.102.210.46/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24 (Peru Ministry of Culture)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_nacional_del_Per%C3%BA.svg/512px-Escudo_nacional_del_Per%C3%BA.svg.png" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Cultura 24 (Peru Ministry of Culture)
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24 (Peru Ministry of Culture)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/cultura_24_pe.svg" group-title="Live Channels - Latin America" tvg-language="es" tvg-country="PE",Cultura 24 (Peru Ministry of Culture)
 #EXTGRP:Live Channels - Latin America
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (United Nations Global Webcast)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Live Channels - United States & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (United Nations Global Webcast)
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV (United Nations Global Webcast)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/un_web_tv.svg" group-title="Live Channels - United States & Global" tvg-language="multilingual" tvg-country="UN",UN Web TV (United Nations Global Webcast)
 #EXTGRP:Live Channels - United States & Global
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase (Public Domain Arts & Opera)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Classic_Arts_Showcase_logo.png/512px-Classic_Arts_Showcase_logo.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase (Public Domain Arts & Opera)
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase (Public Domain Arts & Opera)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/classic_arts_showcase.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Classic Arts Showcase (Public Domain Arts & Opera)
 #EXTGRP:Live Channels - United States & Global
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS Educational Network)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Create_TV_logo.svg/512px-Create_TV_logo.svg.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Create TV (PBS Educational Network)
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create TV (PBS Educational Network)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/create_tv.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",Create TV (PBS Educational Network)
 #EXTGRP:Live Channels - United States & Global
 https://create.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN (Washington D.C. Capital Network)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/512px-Flag_of_the_District_of_Columbia.svg.png" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",DCN (Washington D.C. Capital Network)
+#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="DCN (Washington D.C. Capital Network)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/dcn_washington.svg" group-title="Live Channels - United States & Global" tvg-language="en" tvg-country="US",DCN (Washington D.C. Capital Network)
 #EXTGRP:Live Channels - United States & Global
 https://video.oct.dc.gov/out/u/DCN.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan (International Public TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NHK_World-Japan_logo_2020.svg/512px-NHK_World-Japan_logo_2020.svg.png" group-title="Live Channels - Asia" tvg-language="en" tvg-country="JP",NHK World-Japan (International Public TV)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan (International Public TV)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/nhk_world.svg" group-title="Live Channels - Asia" tvg-language="en" tvg-country="JP",NHK World-Japan (International Public TV)
 #EXTGRP:Live Channels - Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 
-#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV (Korea National Policy Television)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/512px-Flag_of_South_Korea.svg.png" group-title="Live Channels - Asia" tvg-language="ko" tvg-country="KR",KTV (Korea National Policy Television)
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV (Korea National Policy Television)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/ktv_korea.svg" group-title="Live Channels - Asia" tvg-language="ko" tvg-country="KR",KTV (Korea National Policy Television)
 #EXTGRP:Live Channels - Asia
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV (Korea International Culture)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arirang_TV_logo.svg/512px-Arirang_TV_logo.svg.png" group-title="Live Channels - Asia" tvg-language="en" tvg-country="KR",Arirang TV (Korea International Culture)
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV (Korea International Culture)" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/arirang_tv.svg" group-title="Live Channels - Asia" tvg-language="en" tvg-country="KR",Arirang TV (Korea International Culture)
 #EXTGRP:Live Channels - Asia
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 

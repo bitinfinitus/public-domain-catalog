@@ -765,6 +765,10 @@ def build_bilingual_catalogs():
         group_pt = f"Canais ao Vivo - {ch['country_pt']}"
         group_en = f"Live Channels - {ch['country_en']}"
         
+        # Link logo to GitHub repository raw URL
+        ref_filename = os.path.basename(ch["ref_logo"])
+        raw_logo_url = f"https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/{ref_filename}"
+        
         item_pt = {
             "id": ch["id"],
             "title": ch["name_pt"],
@@ -773,8 +777,9 @@ def build_bilingual_catalogs():
             "country": ch["country"],
             "lang": ch["lang"],
             "stream_url": ch["url"],
-            "logo_url": ch["logo"],
+            "logo_url": raw_logo_url,
             "ref_logo": ch["ref_logo"],
+            "external_logo": ch["logo"],
             "desc": ch["desc_pt"],
             "type": "live_stream"
         }
@@ -786,8 +791,9 @@ def build_bilingual_catalogs():
             "country": ch["country"],
             "lang": ch["lang"],
             "stream_url": ch["url"],
-            "logo_url": ch["logo"],
+            "logo_url": raw_logo_url,
             "ref_logo": ch["ref_logo"],
+            "external_logo": ch["logo"],
             "desc": ch["desc_en"],
             "type": "live_stream"
         }
