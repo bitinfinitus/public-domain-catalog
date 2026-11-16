@@ -2,13 +2,14 @@
 ## Official Public Domain & Copyright-Free Media Catalog (M3U / M3U8)
 
 [![Status](https://img.shields.io/badge/Status-100%25%20Verified%20Active-success)](#)
-[![Total Entries](https://img.shields.io/badge/Total%20Entries-129%20Items-blue)](#)
+[![Total Entries](https://img.shields.io/badge/Total%20Entries-155%20Items-blue)](#)
 [![Format](https://img.shields.io/badge/Format-M3U8%20%7C%20HLS%20%7C%20MP4-blue)](#)
 [![License](https://img.shields.io/badge/Content-Public%20Domain%20%7C%20CC--BY-brightgreen)](#)
 [![Versions](https://img.shields.io/badge/Versions-Portugu%C3%AAs%20%7C%20English-red)](#)
 [![Channels by Country](https://img.shields.io/badge/Live%20TV-Organized%20by%20Country-orange)](#)
+[![Classic TV Series](https://img.shields.io/badge/TV%20Series-26%20Episodes-purple)](#)
 
-Coleção oficial e curada de obras em **Domínio Público**, arquivos históricos mundiais, **30 canais de televisão pública e educativa organizados por país**, **46 animações da Era de Ouro** e filmes de código aberto (Creative Commons).
+Coleção oficial e curada de obras em **Domínio Público**, arquivos históricos mundiais, **30 canais de televisão pública e educativa organizados por país**, **26 episódios de séries clássicas de televisão**, **46 animações da Era de Ouro** e filmes de código aberto (Creative Commons).
 
 O catálogo está disponível em **duas versões completas**:
 1. 🇧🇷 **Versão em Português** (Títulos adaptados, grupos e descrições em Português).
@@ -21,16 +22,24 @@ O catálogo está disponível em **duas versões completas**:
 Copie e cole a URL da sua preferência diretamente no **VLC**, **TiviMate**, **IPTV Smarters Pro**, **Kodi**, **Apple TV** ou **Jellyfin**:
 
 ### 🇧🇷 Versão em Português (PT)
-- **Playlist Master Completa (129 Itens)**:
+- **Playlist Master Completa (155 Itens)**:
   ```text
   https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/pt/public_domain_master_pt.m3u8
+  ```
+- **Playlist Segmentada - Séries Clássicas de TV (26 Episódios)**:
+  ```text
+  https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/pt/series_classicas_de_tv_dominio_publico.m3u8
   ```
 - **Arquivo Local**: [`catalog/pt/public_domain_master_pt.m3u8`](file:///c:/dev/public-domain-catalog/catalog/pt/public_domain_master_pt.m3u8)
 
 ### 🇺🇸 Versão em Inglês (EN)
-- **Complete Master Playlist (129 Items)**:
+- **Complete Master Playlist (155 Items)**:
   ```text
   https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/en/public_domain_master_en.m3u8
+  ```
+- **Segmented Playlist - Classic TV Series (26 Episodes)**:
+  ```text
+  https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/en/classic_tv_series_public_domain.m3u8
   ```
 - **Local File**: [`catalog/en/public_domain_master_en.m3u8`](file:///c:/dev/public-domain-catalog/catalog/en/public_domain_master_en.m3u8)
 
@@ -91,6 +100,7 @@ Os 30 canais abertos estão categorizados por país de origem em ambas as versõ
 
 | Versão em Português | English Version | Qtd | Destaques |
 | :--- | :--- | :---: | :--- |
+| **Séries Clássicas de TV (Domínio Público)** | **Classic TV Series (Public Domain)** | **26** | *A Família Buscapé* (Beverly Hillbillies), *Sherlock Holmes* (1954), *Bonanza*, *One Step Beyond*, *The Lucy Show*, *Robin Hood* (1955), *The Dick Van Dyke Show*, *Dragnet*, *Flash Gordon* |
 | **Animações Clássicas de Domínio Público** | **Classic Public Domain Animation** | **46** | Popeye, Betty Boop, Superman, Felix, Merrie Melodies, Oswald, Little Lulu, Casper, Mighty Mouse, Color Classics, Inkwell |
 | **Terror, Sci-Fi & Cult Clássico** | **Classic Horror, Sci-Fi & Cult** | 10 | *Night of the Living Dead*, *Nosferatu*, *House on Haunted Hill*, *Metropolis*, *White Zombie*, *Plan 9* |
 | **Comédia & Cinema Mudo** | **Comedy & Silent Cinema** | 9 | Charlie Chaplin (*The Kid*, *The Gold Rush*), Buster Keaton (*The General*), Harold Lloyd, Laurel & Hardy |

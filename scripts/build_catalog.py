@@ -435,6 +435,373 @@ LIVE_CHANNELS_DATA = [
     }
 ]
 
+SERIES_DATA = [
+    {
+        "id": "beverly_hillbillies_Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil",
+        "series_id": "beverly_hillbillies",
+        "title_pt": "A Família Buscapé - Episódio 1: Os Clampetts Descobrem Petróleo",
+        "title_en": "The Beverly Hillbillies - Episode 1: The Clampetts Strike Oil",
+        "year": 1962,
+        "creator": "Paul Henning",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil/BH01_The_Clampetts_Strike_Oil_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil",
+        "desc_pt": "Clássica comédia da TV sobre a família caipira Clampett que enriquece ao encontrar petróleo em suas terras e se muda para Beverly Hills. Temporadas 1 e 2 em domínio público.",
+        "desc_en": "Classic American sitcom following the Clampett family who strike oil on their land and relocate to Beverly Hills. Seasons 1 & 2 in the public domain.",
+        "size_mb": 103.3
+    },
+    {
+        "id": "beverly_hillbillies_thebeverlyhillbilliesgettingsettledhq",
+        "series_id": "beverly_hillbillies",
+        "title_pt": "A Família Buscapé - Episódio 2: Instalando-se na Mansão",
+        "title_en": "The Beverly Hillbillies - Episode 2: Getting Settled",
+        "year": 1962,
+        "creator": "Paul Henning",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/thebeverlyhillbilliesgettingsettledhq/The Beverly Hillbillies - Getting Settled HQ.mp4",
+        "logo_url": "https://archive.org/services/img/thebeverlyhillbilliesgettingsettledhq",
+        "desc_pt": "Clássica comédia da TV sobre a família caipira Clampett que enriquece ao encontrar petróleo em suas terras e se muda para Beverly Hills. Temporadas 1 e 2 em domínio público.",
+        "desc_en": "Classic American sitcom following the Clampett family who strike oil on their land and relocate to Beverly Hills. Seasons 1 & 2 in the public domain.",
+        "size_mb": 155.1
+    },
+    {
+        "id": "beverly_hillbillies_Beverly_Hillbillies_Ep06_Trick_Or_Treat",
+        "series_id": "beverly_hillbillies",
+        "title_pt": "A Família Buscapé - Episódio 6: Travessuras ou Gostosuras",
+        "title_en": "The Beverly Hillbillies - Episode 6: Trick Or Treat",
+        "year": 1962,
+        "creator": "Paul Henning",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Beverly_Hillbillies_Ep06_Trick_Or_Treat/BH06_Trick_Or_Treat_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Beverly_Hillbillies_Ep06_Trick_Or_Treat",
+        "desc_pt": "Clássica comédia da TV sobre a família caipira Clampett que enriquece ao encontrar petróleo em suas terras e se muda para Beverly Hills. Temporadas 1 e 2 em domínio público.",
+        "desc_en": "Classic American sitcom following the Clampett family who strike oil on their land and relocate to Beverly Hills. Seasons 1 & 2 in the public domain.",
+        "size_mb": 104.8
+    },
+    {
+        "id": "beverly_hillbillies_Beverly_Hillbillies_Ep07_The_Servants",
+        "series_id": "beverly_hillbillies",
+        "title_pt": "A Família Buscapé - Episódio 7: Os Criados",
+        "title_en": "The Beverly Hillbillies - Episode 7: The Servants",
+        "year": 1962,
+        "creator": "Paul Henning",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Beverly_Hillbillies_Ep07_The_Servants/BH07_The_Servants_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Beverly_Hillbillies_Ep07_The_Servants",
+        "desc_pt": "Clássica comédia da TV sobre a família caipira Clampett que enriquece ao encontrar petróleo em suas terras e se muda para Beverly Hills. Temporadas 1 e 2 em domínio público.",
+        "desc_en": "Classic American sitcom following the Clampett family who strike oil on their land and relocate to Beverly Hills. Seasons 1 & 2 in the public domain.",
+        "size_mb": 103.9
+    },
+    {
+        "id": "sherlock_holmes_1954_Sherlock_Holmes_TCOT_Laughing_Mummy",
+        "series_id": "sherlock_holmes_1954",
+        "title_pt": "Sherlock Holmes (Série de 1954) - O Caso da Múmia que Ri",
+        "title_en": "Sherlock Holmes (1954 Series) - The Case of the Laughing Mummy",
+        "year": 1954,
+        "creator": "Sheldon Reynolds / Ronald Howard",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Sherlock_Holmes_TCOT_Laughing_Mummy/TheCaseOfTheLaughingMummy.ia.mp4",
+        "logo_url": "https://archive.org/services/img/Sherlock_Holmes_TCOT_Laughing_Mummy",
+        "desc_pt": "Primeira adaptação dramática de Sherlock Holmes produzida para a televisão nos Estados Unidos e Europa, estrelada por Ronald Howard. Todos os 39 episódios estão em domínio público.",
+        "desc_en": "Groundbreaking 1954 TV adaptation starring Ronald Howard as Arthur Conan Doyle's legendary detective and Howard Marion-Crawford as Dr. Watson. 39 episodes in the public domain.",
+        "size_mb": 147.3
+    },
+    {
+        "id": "sherlock_holmes_1954_SherlockHolmes-TheCaseOfTheTyrantsDaughter",
+        "series_id": "sherlock_holmes_1954",
+        "title_pt": "Sherlock Holmes (Série de 1954) - O Caso da Filha do Tirano",
+        "title_en": "Sherlock Holmes (1954 Series) - The Case of the Tyrant's Daughter",
+        "year": 1954,
+        "creator": "Sheldon Reynolds / Ronald Howard",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/SherlockHolmes-TheCaseOfTheTyrantsDaughter/TyrantsDaughter_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/SherlockHolmes-TheCaseOfTheTyrantsDaughter",
+        "desc_pt": "Primeira adaptação dramática de Sherlock Holmes produzida para a televisão nos Estados Unidos e Europa, estrelada por Ronald Howard. Todos os 39 episódios estão em domínio público.",
+        "desc_en": "Groundbreaking 1954 TV adaptation starring Ronald Howard as Arthur Conan Doyle's legendary detective and Howard Marion-Crawford as Dr. Watson. 39 episodes in the public domain.",
+        "size_mb": 112.0
+    },
+    {
+        "id": "sherlock_holmes_1954_sherlock-holmes-the-case-of-the-christmas-pudding-1955-christmas-mystery",
+        "series_id": "sherlock_holmes_1954",
+        "title_pt": "Sherlock Holmes (Série de 1954) - O Caso do Pudim de Natal",
+        "title_en": "Sherlock Holmes (1954 Series) - The Case of the Christmas Pudding",
+        "year": 1955,
+        "creator": "Sheldon Reynolds / Ronald Howard",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/sherlock-holmes-the-case-of-the-christmas-pudding-1955-christmas-mystery/Sherlock Holmes - The Case of the Christmas Pudding (1955 Christmas, Mystery).mp4",
+        "logo_url": "https://archive.org/services/img/sherlock-holmes-the-case-of-the-christmas-pudding-1955-christmas-mystery",
+        "desc_pt": "Primeira adaptação dramática de Sherlock Holmes produzida para a televisão nos Estados Unidos e Europa, estrelada por Ronald Howard. Todos os 39 episódios estão em domínio público.",
+        "desc_en": "Groundbreaking 1954 TV adaptation starring Ronald Howard as Arthur Conan Doyle's legendary detective and Howard Marion-Crawford as Dr. Watson. 39 episodes in the public domain.",
+        "size_mb": 80.3
+    },
+    {
+        "id": "bonanza_Bonanza-Showdown",
+        "series_id": "bonanza",
+        "title_pt": "Bonanza - O Confronto Final (Showdown)",
+        "title_en": "Bonanza - Showdown",
+        "year": 1960,
+        "creator": "David Dortort (NBC)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Bonanza-Showdown/Bonanza_-_Showdown_S02-E01_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Bonanza-Showdown",
+        "desc_pt": "Lendária série de faroeste acompanhando a família Cartwright no rancho Ponderosa, em Nevada. Diversos episódios das primeiras temporadas estão em domínio público.",
+        "desc_en": "Legendary American Western series chronicling the Cartwright family on the Ponderosa ranch. Multiple early-season episodes in the public domain.",
+        "size_mb": 205.4
+    },
+    {
+        "id": "bonanza_Bonanza-DeathAtDawn",
+        "series_id": "bonanza",
+        "title_pt": "Bonanza - Morte ao Amanhecer (Death at Dawn)",
+        "title_en": "Bonanza - Death at Dawn",
+        "year": 1960,
+        "creator": "David Dortort (NBC)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Bonanza-DeathAtDawn/Bonanza_-_Death_At_Dawn_S01-E32_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Bonanza-DeathAtDawn",
+        "desc_pt": "Lendária série de faroeste acompanhando a família Cartwright no rancho Ponderosa, em Nevada. Diversos episódios das primeiras temporadas estão em domínio público.",
+        "desc_en": "Legendary American Western series chronicling the Cartwright family on the Ponderosa ranch. Multiple early-season episodes in the public domain.",
+        "size_mb": 206.3
+    },
+    {
+        "id": "bonanza_Bonanza_-_Breed_Of_Violence",
+        "series_id": "bonanza",
+        "title_pt": "Bonanza - Semente de Violência (Breed of Violence)",
+        "title_en": "Bonanza - Breed of Violence",
+        "year": 1960,
+        "creator": "David Dortort (NBC)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Bonanza_-_Breed_Of_Violence/Bonanza_-_Breed_Of_Violence_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Bonanza_-_Breed_Of_Violence",
+        "desc_pt": "Lendária série de faroeste acompanhando a família Cartwright no rancho Ponderosa, em Nevada. Diversos episódios das primeiras temporadas estão em domínio público.",
+        "desc_en": "Legendary American Western series chronicling the Cartwright family on the Ponderosa ranch. Multiple early-season episodes in the public domain.",
+        "size_mb": 204.6
+    },
+    {
+        "id": "bonanza_Bonanza-TheFearMerchants",
+        "series_id": "bonanza",
+        "title_pt": "Bonanza - Os Mercadores do Medo (The Fear Merchants)",
+        "title_en": "Bonanza - The Fear Merchants",
+        "year": 1960,
+        "creator": "David Dortort (NBC)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Bonanza-TheFearMerchants/Bonanza_-_The_Fear_Merchants_S01-E20_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/Bonanza-TheFearMerchants",
+        "desc_pt": "Lendária série de faroeste acompanhando a família Cartwright no rancho Ponderosa, em Nevada. Diversos episódios das primeiras temporadas estão em domínio público.",
+        "desc_en": "Legendary American Western series chronicling the Cartwright family on the Ponderosa ranch. Multiple early-season episodes in the public domain.",
+        "size_mb": 202.5
+    },
+    {
+        "id": "one_step_beyond_OneStepBeyondTheDream",
+        "series_id": "one_step_beyond",
+        "title_pt": "One Step Beyond (No Limite da Realidade) - O Sonho (The Dream)",
+        "title_en": "One Step Beyond (Supernatural TV Series) - The Dream",
+        "year": 1959,
+        "creator": "Merwin Gerard / John Newland",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/OneStepBeyondTheDream/OneStepBeyondTheDream.ia.mp4",
+        "logo_url": "https://archive.org/services/img/OneStepBeyondTheDream",
+        "desc_pt": "Aclamada série antológica de suspense, mistério e fenômenos sobrenaturais apresentada por John Newland. Quase a totalidade da série está em domínio público.",
+        "desc_en": "Acclaimed supernatural and paranormal mystery anthology series hosted by John Newland exploring real unexplained events. Vast majority of episodes in the public domain.",
+        "size_mb": 136.5
+    },
+    {
+        "id": "one_step_beyond_S1E13THENAVIGATOR",
+        "series_id": "one_step_beyond",
+        "title_pt": "One Step Beyond (No Limite da Realidade) - O Navegador (The Navigator)",
+        "title_en": "One Step Beyond (Supernatural TV Series) - The Navigator",
+        "year": 1959,
+        "creator": "Merwin Gerard / John Newland",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/S1E13THENAVIGATOR/S1E13 - THE NAVIGATOR.mp4",
+        "logo_url": "https://archive.org/services/img/S1E13THENAVIGATOR",
+        "desc_pt": "Aclamada série antológica de suspense, mistério e fenômenos sobrenaturais apresentada por John Newland. Quase a totalidade da série está em domínio público.",
+        "desc_en": "Acclaimed supernatural and paranormal mystery anthology series hosted by John Newland exploring real unexplained events. Vast majority of episodes in the public domain.",
+        "size_mb": 151.2
+    },
+    {
+        "id": "one_step_beyond_S2E8MESSAGEFROMCLARA",
+        "series_id": "one_step_beyond",
+        "title_pt": "One Step Beyond (No Limite da Realidade) - Mensagem de Clara (Message from Clara)",
+        "title_en": "One Step Beyond (Supernatural TV Series) - Message from Clara",
+        "year": 1959,
+        "creator": "Merwin Gerard / John Newland",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/S2E8MESSAGEFROMCLARA/S2E8 - MESSAGE FROM CLARA.mp4",
+        "logo_url": "https://archive.org/services/img/S2E8MESSAGEFROMCLARA",
+        "desc_pt": "Aclamada série antológica de suspense, mistério e fenômenos sobrenaturais apresentada por John Newland. Quase a totalidade da série está em domínio público.",
+        "desc_en": "Acclaimed supernatural and paranormal mystery anthology series hosted by John Newland exploring real unexplained events. Vast majority of episodes in the public domain.",
+        "size_mb": 146.2
+    },
+    {
+        "id": "the_lucy_show_Lucy_Show_Main_Street",
+        "series_id": "the_lucy_show",
+        "title_pt": "O Show da Lucy (The Lucy Show) - Lucy na Rua Principal (Main Street U.S.A.)",
+        "title_en": "The Lucy Show (Lucille Ball) - Main Street U.S.A.",
+        "year": 1967,
+        "creator": "Lucille Ball (Desilu / CBS)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/Lucy_Show_Main_Street/Lucy_MelTorme.ia.mp4",
+        "logo_url": "https://archive.org/services/img/Lucy_Show_Main_Street",
+        "desc_pt": "Série clássica de humor estrelada pela pioneira da televisão Lucille Ball e Gale Gordon. Diversos episódios clássicos com direitos expirados em domínio público.",
+        "desc_en": "Hit American comedy series starring Lucille Ball as Lucy Carmichael alongside Gale Gordon. Multiple classic episodes in the public domain.",
+        "size_mb": 143.4
+    },
+    {
+        "id": "the_lucy_show_lucyshow",
+        "series_id": "the_lucy_show",
+        "title_pt": "O Show da Lucy (The Lucy Show) - Lucy e o Encontro às Cegas",
+        "title_en": "The Lucy Show (Lucille Ball) - Lucy's Blind Date",
+        "year": 1967,
+        "creator": "Lucille Ball (Desilu / CBS)",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/lucyshow/lucyshow.ia.mp4",
+        "logo_url": "https://archive.org/services/img/lucyshow",
+        "desc_pt": "Série clássica de humor estrelada pela pioneira da televisão Lucille Ball e Gale Gordon. Diversos episódios clássicos com direitos expirados em domínio público.",
+        "desc_en": "Hit American comedy series starring Lucille Ball as Lucy Carmichael alongside Gale Gordon. Multiple classic episodes in the public domain.",
+        "size_mb": 144.0
+    },
+    {
+        "id": "robin_hood_1955_AdventuresOfRobinHoodep18TheIntruders",
+        "series_id": "robin_hood_1955",
+        "title_pt": "As Aventuras de Robin Hood - Episódio 18: Os Intrusos (The Intruders)",
+        "title_en": "The Adventures of Robin Hood (1955) - Episode 18: The Intruders",
+        "year": 1955,
+        "creator": "Hannah Weinstein / Richard Greene",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/AdventuresOfRobinHoodep18TheIntruders/Adventures of Robin Hood (ep 18 The Intruders).mp4",
+        "logo_url": "https://archive.org/services/img/AdventuresOfRobinHoodep18TheIntruders",
+        "desc_pt": "Série britânica pioneira de aventuras na Floresta de Sherwood estrelada por Richard Greene como o herói fora da lei. Diversos episódios em domínio público.",
+        "desc_en": "Pioneering British-American historical adventure series starring Richard Greene as the outlaw of Sherwood Forest. Multiple episodes in the public domain.",
+        "size_mb": 147.3
+    },
+    {
+        "id": "robin_hood_1955_AdventuresOfRobinHoodEp31ByzantineTreasureHQ",
+        "series_id": "robin_hood_1955",
+        "title_pt": "As Aventuras de Robin Hood - Episódio 31: O Tesouro Bizantino (Byzantine Treasure)",
+        "title_en": "The Adventures of Robin Hood (1955) - Episode 31: Byzantine Treasure",
+        "year": 1956,
+        "creator": "Hannah Weinstein / Richard Greene",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/AdventuresOfRobinHoodEp31ByzantineTreasureHQ/Adventures of Robin Hood ( ep 31 Byzantine Treasure) HQ.mp4",
+        "logo_url": "https://archive.org/services/img/AdventuresOfRobinHoodEp31ByzantineTreasureHQ",
+        "desc_pt": "Série britânica pioneira de aventuras na Floresta de Sherwood estrelada por Richard Greene como o herói fora da lei. Diversos episódios em domínio público.",
+        "desc_en": "Pioneering British-American historical adventure series starring Richard Greene as the outlaw of Sherwood Forest. Multiple episodes in the public domain.",
+        "size_mb": 148.9
+    },
+    {
+        "id": "robin_hood_1955_AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner",
+        "series_id": "robin_hood_1955",
+        "title_pt": "As Aventuras de Robin Hood - Episódio 37: O Cavaleiro para o Jantar",
+        "title_en": "The Adventures of Robin Hood (1955) - Episode 37: The Knight Who Came to Dinner",
+        "year": 1956,
+        "creator": "Hannah Weinstein / Richard Greene",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner/Adventures of Robin Hood HQ ep 37 The Knight Who Came to Dinner.mp4",
+        "logo_url": "https://archive.org/services/img/AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner",
+        "desc_pt": "Série britânica pioneira de aventuras na Floresta de Sherwood estrelada por Richard Greene como o herói fora da lei. Diversos episódios em domínio público.",
+        "desc_en": "Pioneering British-American historical adventure series starring Richard Greene as the outlaw of Sherwood Forest. Multiple episodes in the public domain.",
+        "size_mb": 148.6
+    },
+    {
+        "id": "dick_van_dyke_dick_van_dyke_show_31_never_name_a_duck",
+        "series_id": "dick_van_dyke",
+        "title_pt": "The Dick Van Dyke Show - Nunca Dê Nome a um Pato (Never Name a Duck)",
+        "title_en": "The Dick Van Dyke Show - Never Name a Duck",
+        "year": 1962,
+        "creator": "Carl Reiner",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/dick_van_dyke_show_31_never_name_a_duck/dick_van_dyke_show_31_never_name_a_duck_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/dick_van_dyke_show_31_never_name_a_duck",
+        "desc_pt": "Uma das sitcoms mais premiadas da história da TV, criada por Carl Reiner e estrelada por Dick Van Dyke e Mary Tyler Moore. Vários episódios em domínio público.",
+        "desc_en": "Critically acclaimed television sitcom created by Carl Reiner and starring Dick Van Dyke and Mary Tyler Moore. Multiple episodes in the public domain.",
+        "size_mb": 104.0
+    },
+    {
+        "id": "dick_van_dyke_dick_van_dyke_show_34_bank_book_6565696",
+        "series_id": "dick_van_dyke",
+        "title_pt": "The Dick Van Dyke Show - A Caderneta de Poupança (Bank Book 6565696)",
+        "title_en": "The Dick Van Dyke Show - Bank Book 6565696",
+        "year": 1962,
+        "creator": "Carl Reiner",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/dick_van_dyke_show_34_bank_book_6565696/dick_van_dyke_show_34_bank_book_6565696_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/dick_van_dyke_show_34_bank_book_6565696",
+        "desc_pt": "Uma das sitcoms mais premiadas da história da TV, criada por Carl Reiner e estrelada por Dick Van Dyke e Mary Tyler Moore. Vários episódios em domínio público.",
+        "desc_en": "Critically acclaimed television sitcom created by Carl Reiner and starring Dick Van Dyke and Mary Tyler Moore. Multiple episodes in the public domain.",
+        "size_mb": 106.3
+    },
+    {
+        "id": "dick_van_dyke_dick_van_dyke_show_39_the_night_the_roof_fell_in",
+        "series_id": "dick_van_dyke",
+        "title_pt": "The Dick Van Dyke Show - A Noite em que o Teto Caiu",
+        "title_en": "The Dick Van Dyke Show - The Night the Roof Fell In",
+        "year": 1962,
+        "creator": "Carl Reiner",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/dick_van_dyke_show_39_the_night_the_roof_fell_in/dick_van_dyke_show_39_the_night_the_roof_fell_in_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/dick_van_dyke_show_39_the_night_the_roof_fell_in",
+        "desc_pt": "Uma das sitcoms mais premiadas da história da TV, criada por Carl Reiner e estrelada por Dick Van Dyke e Mary Tyler Moore. Vários episódios em domínio público.",
+        "desc_en": "Critically acclaimed television sitcom created by Carl Reiner and starring Dick Van Dyke and Mary Tyler Moore. Multiple episodes in the public domain.",
+        "size_mb": 105.4
+    },
+    {
+        "id": "dragnet_DragnetS01E05TheBigCast",
+        "series_id": "dragnet",
+        "title_pt": "Dragnet (Sargento Friday) - Temporada 1 Episódio 5: The Big Cast",
+        "title_en": "Dragnet (Classic Police Series) - Season 1 Episode 5: The Big Cast",
+        "year": 1952,
+        "creator": "Jack Webb",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/DragnetS01E05TheBigCast/Dragnet S01E05 The Big Cast - Watch Crime Series Online.mp4",
+        "logo_url": "https://archive.org/services/img/DragnetS01E05TheBigCast",
+        "desc_pt": "Série policial pioneira criada e estrelada por Jack Webb como o detetive Joe Friday, famosa pela frase 'Just the facts, ma'am'. Episódios clássicos em domínio público.",
+        "desc_en": "Groundbreaking police procedural drama created by and starring Jack Webb as Sgt. Joe Friday. Classic 1950s episodes in the public domain.",
+        "size_mb": 72.1
+    },
+    {
+        "id": "dragnet_DragnetTheBigBetty",
+        "series_id": "dragnet",
+        "title_pt": "Dragnet (Sargento Friday) - Caso: The Big Betty",
+        "title_en": "Dragnet (Classic Police Series) - The Big Betty",
+        "year": 1953,
+        "creator": "Jack Webb",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/DragnetTheBigBetty/Dragnet - The Big Bar.mp4",
+        "logo_url": "https://archive.org/services/img/DragnetTheBigBetty",
+        "desc_pt": "Série policial pioneira criada e estrelada por Jack Webb como o detetive Joe Friday, famosa pela frase 'Just the facts, ma'am'. Episódios clássicos em domínio público.",
+        "desc_en": "Groundbreaking police procedural drama created by and starring Jack Webb as Sgt. Joe Friday. Classic 1950s episodes in the public domain.",
+        "size_mb": 69.7
+    },
+    {
+        "id": "flash_gordon_1954_FlashGordon-AkimTheTerrible-1954-Ep1x05",
+        "series_id": "flash_gordon_1954",
+        "title_pt": "Flash Gordon (Série de 1954) - Episódio 5: Akim, o Terrível",
+        "title_en": "Flash Gordon (1954 Series) - Episode 5: Akim the Terrible",
+        "year": 1954,
+        "creator": "Steve Holland / Universal",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/FlashGordon-AkimTheTerrible-1954-Ep1x05/FlashGordon105-AkimTheTerrible_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/FlashGordon-AkimTheTerrible-1954-Ep1x05",
+        "desc_pt": "Série de ficção científica espacial dos anos 50 estrelada por Steve Holland como o herói cósmico Flash Gordon enfrentando ameaças intergalácticas. Em domínio público.",
+        "desc_en": "1954 live-action science fiction television series starring Steve Holland as the legendary space hero Flash Gordon. Public domain episodes.",
+        "size_mb": 104.9
+    },
+    {
+        "id": "flash_gordon_1954_FlashGordon-TheRaceAgainstTime-1955",
+        "series_id": "flash_gordon_1954",
+        "title_pt": "Flash Gordon (Série de 1954) - Corrida Contra o Tempo",
+        "title_en": "Flash Gordon (1954 Series) - The Race Against Time",
+        "year": 1955,
+        "creator": "Steve Holland / Universal",
+        "lang": "en",
+        "stream_url": "https://archive.org/download/FlashGordon-TheRaceAgainstTime-1955/FlashGordon119-TheRaceAgainstTime_512kb.mp4",
+        "logo_url": "https://archive.org/services/img/FlashGordon-TheRaceAgainstTime-1955",
+        "desc_pt": "Série de ficção científica espacial dos anos 50 estrelada por Steve Holland como o herói cósmico Flash Gordon enfrentando ameaças intergalácticas. Em domínio público.",
+        "desc_en": "1954 live-action science fiction television series starring Steve Holland as the legendary space hero Flash Gordon. Public domain episodes.",
+        "size_mb": 109.6
+    },
+]
+
 # Creative Commons Open Movies
 OPEN_MOVIES_DATA = [
     {
@@ -926,6 +1293,35 @@ def build_bilingual_catalogs():
             "type": "vod_open_cinema"
         })
 
+    # 6. Classic TV Series (26 episodes across 9 iconic series)
+    for s in SERIES_DATA:
+        catalog_pt.append({
+            "id": s["id"],
+            "title": s["title_pt"],
+            "year": s["year"],
+            "group": "Séries Clássicas de TV (Domínio Público)",
+            "director": s["creator"],
+            "lang": s["lang"],
+            "stream_url": s["stream_url"],
+            "logo_url": s["logo_url"],
+            "desc": s["desc_pt"],
+            "size_mb": s.get("size_mb"),
+            "type": "vod_series"
+        })
+        catalog_en.append({
+            "id": s["id"],
+            "title": s["title_en"],
+            "year": s["year"],
+            "group": "Classic TV Series (Public Domain)",
+            "director": s["creator"],
+            "lang": s["lang"],
+            "stream_url": s["stream_url"],
+            "logo_url": s["logo_url"],
+            "desc": s["desc_en"],
+            "size_mb": s.get("size_mb"),
+            "type": "vod_series"
+        })
+
     # Save JSON Databases
     with open(os.path.join(catalog_dir, 'catalog_pt.json'), 'w', encoding='utf-8') as f:
         json.dump(catalog_pt, f, ensure_ascii=False, indent=2)
@@ -950,7 +1346,23 @@ def build_bilingual_catalogs():
     for g in pt_groups:
         items = [m for m in catalog_pt if m['group'] == g]
         # Clean slug
-        slug = g.lower().replace(' ', '_').replace('&', 'e').replace(',', '').replace('(', '').replace(')', '').replace('á', 'a').replace('ã', 'a').replace('ó', 'o').replace('é', 'e').replace('í', 'i')
+        slug = (g.lower()
+                .replace(' ', '_')
+                .replace('&', 'e')
+                .replace(',', '')
+                .replace('(', '')
+                .replace(')', '')
+                .replace('á', 'a')
+                .replace('ã', 'a')
+                .replace('â', 'a')
+                .replace('é', 'e')
+                .replace('ê', 'e')
+                .replace('í', 'i')
+                .replace('ó', 'o')
+                .replace('ô', 'o')
+                .replace('õ', 'o')
+                .replace('ú', 'u')
+                .replace('ç', 'c'))
         filepath = os.path.join(pt_dir, f"{slug}.m3u8")
         generate_m3u8(items, filepath, f"Domínio Público - {g}")
 
