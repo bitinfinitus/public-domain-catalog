@@ -1410,6 +1410,25 @@ def build_bilingual_catalogs():
     root_master_path = os.path.join(catalog_dir, 'public_domain_master.m3u8')
     generate_m3u8(catalog_pt, root_master_path, 'Catálogo Oficial de Domínio Público (Master)')
 
+    # Consolidated Tier Playlists (Series, Movies, Live Channels)
+    # 1. Complete Series Playlists
+    series_pt = [m for m in catalog_pt if m['type'] == 'vod_series']
+    generate_m3u8(series_pt, os.path.join(pt_dir, 'series_classicas_de_tv_dominio_publico.m3u8'), 'Séries Clássicas de TV em Domínio Público')
+    series_en = [m for m in catalog_en if m['type'] == 'vod_series']
+    generate_m3u8(series_en, os.path.join(en_dir, 'classic_tv_series_public_domain.m3u8'), 'Classic TV Series in the Public Domain')
+
+    # 2. Complete Movies Playlists
+    movies_pt = [m for m in catalog_pt if m['type'] in ['vod_archive', 'vod_animation', 'vod_open_cinema']]
+    generate_m3u8(movies_pt, os.path.join(pt_dir, 'filmes_cinema_e_animacoes.m3u8'), 'Filmes e Animações em Domínio Público')
+    movies_en = [m for m in catalog_en if m['type'] in ['vod_archive', 'vod_animation', 'vod_open_cinema']]
+    generate_m3u8(movies_en, os.path.join(en_dir, 'movies_cinema_and_animation.m3u8'), 'Movies and Classic Animation in the Public Domain')
+
+    # 3. Complete Live Channels Playlists
+    live_pt = [m for m in catalog_pt if m['type'] == 'live_stream']
+    generate_m3u8(live_pt, os.path.join(pt_dir, 'canais_ao_vivo_todos.m3u8'), 'Canais Públicos e Educativos ao Vivo')
+    live_en = [m for m in catalog_en if m['type'] == 'live_stream']
+    generate_m3u8(live_en, os.path.join(en_dir, 'live_channels_all.m3u8'), 'Live Public and Educational Channels')
+
     # 7. Generate Segmented Playlists for PT
     pt_groups = sorted(list(set(m['group'] for m in catalog_pt)))
     for g in pt_groups:

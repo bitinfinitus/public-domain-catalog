@@ -1,0 +1,107 @@
+#EXTM3U
+#PLAYLIST:Classic TV Series in the Public Domain
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e01" tvg-name="The Beverly Hillbillies S01E01 - The Clampetts Strike Oil" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E01 - The Clampetts Strike Oil
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil/BH01_The_Clampetts_Strike_Oil_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e02" tvg-name="The Beverly Hillbillies S01E02 - Getting Settled" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E02 - Getting Settled
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/thebeverlyhillbilliesgettingsettledhq/The Beverly Hillbillies - Getting Settled HQ.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e06" tvg-name="The Beverly Hillbillies S01E06 - Trick Or Treat" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E06 - Trick Or Treat
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep06_Trick_Or_Treat/BH06_Trick_Or_Treat_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e07" tvg-name="The Beverly Hillbillies S01E07 - The Servants" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E07 - The Servants
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep07_The_Servants/BH07_The_Servants_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e08" tvg-name="Sherlock Holmes S01E08 - The Case of the Laughing Mummy" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Series | Mystery & Crime" tvg-language="en",Sherlock Holmes S01E08 - The Case of the Laughing Mummy
+#EXTGRP:Series | Mystery & Crime
+https://archive.org/download/Sherlock_Holmes_TCOT_Laughing_Mummy/TheCaseOfTheLaughingMummy.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e10" tvg-name="Sherlock Holmes S01E10 - The Case of the Tyrant's Daughter" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Series | Mystery & Crime" tvg-language="en",Sherlock Holmes S01E10 - The Case of the Tyrant's Daughter
+#EXTGRP:Series | Mystery & Crime
+https://archive.org/download/SherlockHolmes-TheCaseOfTheTyrantsDaughter/TyrantsDaughter_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e11" tvg-name="Sherlock Holmes S01E11 - The Case of the Christmas Pudding" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Series | Mystery & Crime" tvg-language="en",Sherlock Holmes S01E11 - The Case of the Christmas Pudding
+#EXTGRP:Series | Mystery & Crime
+https://archive.org/download/sherlock-holmes-the-case-of-the-christmas-pudding-1955-christmas-mystery/Sherlock Holmes - The Case of the Christmas Pudding (1955 Christmas, Mystery).mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e20" tvg-name="Bonanza S01E20 - The Fear Merchants" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S01E20 - The Fear Merchants
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-TheFearMerchants/Bonanza_-_The_Fear_Merchants_S01-E20_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e32" tvg-name="Bonanza S01E32 - Death at Dawn" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S01E32 - Death at Dawn
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-DeathAtDawn/Bonanza_-_Death_At_Dawn_S01-E32_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e01" tvg-name="Bonanza S02E01 - Showdown" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S02E01 - Showdown
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-Showdown/Bonanza_-_Showdown_S02-E01_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e03" tvg-name="Bonanza S02E03 - Breed of Violence" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S02E03 - Breed of Violence
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza_-_Breed_Of_Violence/Bonanza_-_Breed_Of_Violence_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s01e03" tvg-name="One Step Beyond S01E03 - The Dream" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Series | Sci-Fi & Supernatural" tvg-language="en",One Step Beyond S01E03 - The Dream
+#EXTGRP:Series | Sci-Fi & Supernatural
+https://archive.org/download/OneStepBeyondTheDream/OneStepBeyondTheDream.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s01e13" tvg-name="One Step Beyond S01E13 - The Navigator" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Series | Sci-Fi & Supernatural" tvg-language="en",One Step Beyond S01E13 - The Navigator
+#EXTGRP:Series | Sci-Fi & Supernatural
+https://archive.org/download/S1E13THENAVIGATOR/S1E13 - THE NAVIGATOR.mp4
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s02e08" tvg-name="One Step Beyond S02E08 - Message from Clara" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Series | Sci-Fi & Supernatural" tvg-language="en",One Step Beyond S02E08 - Message from Clara
+#EXTGRP:Series | Sci-Fi & Supernatural
+https://archive.org/download/S2E8MESSAGEFROMCLARA/S2E8 - MESSAGE FROM CLARA.mp4
+
+#EXTINF:-1 tvg-id="ep_the_lucy_show_s01e01" tvg-name="The Lucy Show S01E01 - Lucy's Blind Date" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_the_lucy_show.svg" group-title="Series | Classic Comedy" tvg-language="en",The Lucy Show S01E01 - Lucy's Blind Date
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/lucyshow/lucyshow.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_the_lucy_show_s05e21" tvg-name="The Lucy Show S05E21 - Main Street U.S.A." tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_the_lucy_show.svg" group-title="Series | Classic Comedy" tvg-language="en",The Lucy Show S05E21 - Main Street U.S.A.
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Lucy_Show_Main_Street/Lucy_MelTorme.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e18" tvg-name="The Adventures of Robin Hood S01E18 - The Intruders" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E18 - The Intruders
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodep18TheIntruders/Adventures of Robin Hood (ep 18 The Intruders).mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e31" tvg-name="The Adventures of Robin Hood S01E31 - Byzantine Treasure" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E31 - Byzantine Treasure
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodEp31ByzantineTreasureHQ/Adventures of Robin Hood ( ep 31 Byzantine Treasure) HQ.mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e37" tvg-name="The Adventures of Robin Hood S01E37 - The Knight Who Came to Dinner" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E37 - The Knight Who Came to Dinner
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner/Adventures of Robin Hood HQ ep 37 The Knight Who Came to Dinner.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e01" tvg-name="The Dick Van Dyke Show S02E01 - Never Name a Duck" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E01 - Never Name a Duck
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_31_never_name_a_duck/dick_van_dyke_show_31_never_name_a_duck_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e04" tvg-name="The Dick Van Dyke Show S02E04 - Bank Book 6565696" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E04 - Bank Book 6565696
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_34_bank_book_6565696/dick_van_dyke_show_34_bank_book_6565696_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e09" tvg-name="The Dick Van Dyke Show S02E09 - The Night the Roof Fell In" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E09 - The Night the Roof Fell In
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_39_the_night_the_roof_fell_in/dick_van_dyke_show_39_the_night_the_roof_fell_in_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_dragnet_s01e05" tvg-name="Dragnet S01E05 - The Big Cast" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dragnet.svg" group-title="Series | Mystery & Crime" tvg-language="en",Dragnet S01E05 - The Big Cast
+#EXTGRP:Series | Mystery & Crime
+https://archive.org/download/DragnetS01E05TheBigCast/Dragnet S01E05 The Big Cast - Watch Crime Series Online.mp4
+
+#EXTINF:-1 tvg-id="ep_dragnet_s02e15" tvg-name="Dragnet S02E15 - The Big Betty" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dragnet.svg" group-title="Series | Mystery & Crime" tvg-language="en",Dragnet S02E15 - The Big Betty
+#EXTGRP:Series | Mystery & Crime
+https://archive.org/download/DragnetTheBigBetty/Dragnet - The Big Bar.mp4
+
+#EXTINF:-1 tvg-id="ep_flash_gordon_s01e05" tvg-name="Flash Gordon S01E05 - Akim the Terrible" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_flash_gordon.svg" group-title="Series | Sci-Fi & Adventure" tvg-language="en",Flash Gordon S01E05 - Akim the Terrible
+#EXTGRP:Series | Sci-Fi & Adventure
+https://archive.org/download/FlashGordon-AkimTheTerrible-1954-Ep1x05/FlashGordon105-AkimTheTerrible_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_flash_gordon_s01e19" tvg-name="Flash Gordon S01E19 - The Race Against Time" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_flash_gordon.svg" group-title="Series | Sci-Fi & Adventure" tvg-language="en",Flash Gordon S01E19 - The Race Against Time
+#EXTGRP:Series | Sci-Fi & Adventure
+https://archive.org/download/FlashGordon-TheRaceAgainstTime-1955/FlashGordon119-TheRaceAgainstTime_512kb.mp4
