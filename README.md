@@ -23,14 +23,14 @@ Copie e cole a URL da sua preferência diretamente no **VLC**, **TiviMate**, **I
 ### 🇧🇷 Versão em Português (PT)
 - **Playlist Master Completa (129 Itens)**:
   ```text
-  https://raw.githubusercontent.com/adriel45dev/public-domain-catalog/main/catalog/pt/public_domain_master_pt.m3u8
+  https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/pt/public_domain_master_pt.m3u8
   ```
 - **Arquivo Local**: [`catalog/pt/public_domain_master_pt.m3u8`](file:///c:/dev/public-domain-catalog/catalog/pt/public_domain_master_pt.m3u8)
 
 ### 🇺🇸 Versão em Inglês (EN)
 - **Complete Master Playlist (129 Items)**:
   ```text
-  https://raw.githubusercontent.com/adriel45dev/public-domain-catalog/main/catalog/en/public_domain_master_en.m3u8
+  https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/main/catalog/en/public_domain_master_en.m3u8
   ```
 - **Local File**: [`catalog/en/public_domain_master_en.m3u8`](file:///c:/dev/public-domain-catalog/catalog/en/public_domain_master_en.m3u8)
 
