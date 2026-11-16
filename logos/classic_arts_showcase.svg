@@ -20,5 +20,5 @@
   
   <!-- Channel Title -->
   <text x="256" y="380" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" text-anchor="middle">CLASSIC ARTS</text>
-  <text x="256" y="420" fill="rgba(255,255,255,0.7)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" text-anchor="middle">Arts &amp; Culture 24/7</text>
+  <text x="256" y="420" fill="rgba(255,255,255,0.7)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" text-anchor="middle">Arts and Culture 24/7</text>
 </svg>
