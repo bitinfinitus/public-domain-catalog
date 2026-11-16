@@ -1,0 +1,19 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Séries | Faroeste Clássico
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e20" tvg-name="Bonanza S01E20 - Os Mercadores do Medo" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Séries | Faroeste Clássico" tvg-language="en",Bonanza S01E20 - Os Mercadores do Medo
+#EXTGRP:Séries | Faroeste Clássico
+https://archive.org/download/Bonanza-TheFearMerchants/Bonanza_-_The_Fear_Merchants_S01-E20_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e32" tvg-name="Bonanza S01E32 - Morte ao Amanhecer" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Séries | Faroeste Clássico" tvg-language="en",Bonanza S01E32 - Morte ao Amanhecer
+#EXTGRP:Séries | Faroeste Clássico
+https://archive.org/download/Bonanza-DeathAtDawn/Bonanza_-_Death_At_Dawn_S01-E32_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e01" tvg-name="Bonanza S02E01 - O Confronto Final" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Séries | Faroeste Clássico" tvg-language="en",Bonanza S02E01 - O Confronto Final
+#EXTGRP:Séries | Faroeste Clássico
+https://archive.org/download/Bonanza-Showdown/Bonanza_-_Showdown_S02-E01_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e03" tvg-name="Bonanza S02E03 - Semente de Violência" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Séries | Faroeste Clássico" tvg-language="en",Bonanza S02E03 - Semente de Violência
+#EXTGRP:Séries | Faroeste Clássico
+https://archive.org/download/Bonanza_-_Breed_Of_Violence/Bonanza_-_Breed_Of_Violence_512kb.mp4

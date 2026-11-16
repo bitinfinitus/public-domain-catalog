@@ -1,0 +1,15 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Series | Classic Adventure
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e18" tvg-name="The Adventures of Robin Hood S01E18 - The Intruders" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E18 - The Intruders
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodep18TheIntruders/Adventures of Robin Hood (ep 18 The Intruders).mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e31" tvg-name="The Adventures of Robin Hood S01E31 - Byzantine Treasure" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E31 - Byzantine Treasure
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodEp31ByzantineTreasureHQ/Adventures of Robin Hood ( ep 31 Byzantine Treasure) HQ.mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e37" tvg-name="The Adventures of Robin Hood S01E37 - The Knight Who Came to Dinner" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Series | Classic Adventure" tvg-language="en",The Adventures of Robin Hood S01E37 - The Knight Who Came to Dinner
+#EXTGRP:Series | Classic Adventure
+https://archive.org/download/AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner/Adventures of Robin Hood HQ ep 37 The Knight Who Came to Dinner.mp4

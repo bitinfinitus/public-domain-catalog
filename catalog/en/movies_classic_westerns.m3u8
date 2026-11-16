@@ -1,0 +1,15 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Movies | Classic Westerns
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="BlueSteel" tvg-name="Blue Steel (1934)" tvg-logo="https://archive.org/services/img/BlueSteel" group-title="Movies | Classic Westerns" tvg-language="en",Blue Steel (1934)
+#EXTGRP:Movies | Classic Westerns
+https://archive.org/download/BlueSteel/BlueSteel.mp4
+
+#EXTINF:-1 tvg-id="TheLuckyTexan" tvg-name="The Lucky Texan (1934)" tvg-logo="https://archive.org/services/img/TheLuckyTexan" group-title="Movies | Classic Westerns" tvg-language="en",The Lucky Texan (1934)
+#EXTGRP:Movies | Classic Westerns
+https://archive.org/download/TheLuckyTexan/TheLuckyTexan.mp4
+
+#EXTINF:-1 tvg-id="angel_and_the_badman" tvg-name="Angel and the Badman (1947)" tvg-logo="https://archive.org/services/img/angel_and_the_badman" group-title="Movies | Classic Westerns" tvg-language="en",Angel and the Badman (1947)
+#EXTGRP:Movies | Classic Westerns
+https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mp4

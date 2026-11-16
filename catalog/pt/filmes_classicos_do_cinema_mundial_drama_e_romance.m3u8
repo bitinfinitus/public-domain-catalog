@@ -1,0 +1,31 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="la35ca-Cinema_35_-_Charade_1963" tvg-name="Charade (1963)" tvg-logo="https://archive.org/services/img/la35ca-Cinema_35_-_Charade_1963" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",Charade (1963)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/la35ca-Cinema_35_-_Charade_1963/Cinema_35_-_Charade_1963.mp4
+
+#EXTINF:-1 tvg-id="his_girl_friday" tvg-name="His Girl Friday (Jejum de Amor) (1940)" tvg-logo="https://archive.org/services/img/his_girl_friday" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",His Girl Friday (Jejum de Amor) (1940)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/his_girl_friday/his_girl_friday.mp4
+
+#EXTINF:-1 tvg-id="AStarIsBorn" tvg-name="A Star Is Born (Nasce Uma Estrela) (1937)" tvg-logo="https://archive.org/services/img/AStarIsBorn" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",A Star Is Born (Nasce Uma Estrela) (1937)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/AStarIsBorn/AStarIsBorn.mp4
+
+#EXTINF:-1 tvg-id="McLintock1963" tvg-name="McLintock! (1963)" tvg-logo="https://archive.org/services/img/McLintock1963" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",McLintock! (1963)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/McLintock1963/McLintock-1963-.mp4
+
+#EXTINF:-1 tvg-id="meet_john_doe" tvg-name="Meet John Doe (Adorável Vagabundo) (1941)" tvg-logo="https://archive.org/services/img/meet_john_doe" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",Meet John Doe (Adorável Vagabundo) (1941)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/meet_john_doe/meet_john_doe.mp4
+
+#EXTINF:-1 tvg-id="MyManGodfrey1936" tvg-name="My Man Godfrey (Irene, a Teimosa) (1936)" tvg-logo="https://archive.org/services/img/MyManGodfrey1936" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",My Man Godfrey (Irene, a Teimosa) (1936)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/MyManGodfrey1936/MyManGodfrey1936.mp4
+
+#EXTINF:-1 tvg-id="Kilimanjaro" tvg-name="The Snows of Kilimanjaro (As Neves do Kilimanjaro) (1952)" tvg-logo="https://archive.org/services/img/Kilimanjaro" group-title="Filmes | Clássicos do Cinema Mundial (Drama & Romance)" tvg-language="en",The Snows of Kilimanjaro (As Neves do Kilimanjaro) (1952)
+#EXTGRP:Filmes | Clássicos do Cinema Mundial (Drama & Romance)
+https://archive.org/download/Kilimanjaro/The_Snows_of_Kilimanjaro.mp4

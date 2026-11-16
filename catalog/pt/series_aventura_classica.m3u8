@@ -1,0 +1,15 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Séries | Aventura Clássica
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e18" tvg-name="As Aventuras de Robin Hood S01E18 - Os Intrusos" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Séries | Aventura Clássica" tvg-language="en",As Aventuras de Robin Hood S01E18 - Os Intrusos
+#EXTGRP:Séries | Aventura Clássica
+https://archive.org/download/AdventuresOfRobinHoodep18TheIntruders/Adventures of Robin Hood (ep 18 The Intruders).mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e31" tvg-name="As Aventuras de Robin Hood S01E31 - O Tesouro Bizantino" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Séries | Aventura Clássica" tvg-language="en",As Aventuras de Robin Hood S01E31 - O Tesouro Bizantino
+#EXTGRP:Séries | Aventura Clássica
+https://archive.org/download/AdventuresOfRobinHoodEp31ByzantineTreasureHQ/Adventures of Robin Hood ( ep 31 Byzantine Treasure) HQ.mp4
+
+#EXTINF:-1 tvg-id="ep_robin_hood_s01e37" tvg-name="As Aventuras de Robin Hood S01E37 - O Cavaleiro para o Jantar" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_robin_hood.svg" group-title="Séries | Aventura Clássica" tvg-language="en",As Aventuras de Robin Hood S01E37 - O Cavaleiro para o Jantar
+#EXTGRP:Séries | Aventura Clássica
+https://archive.org/download/AdventuresOfRobinHoodHQEp37TheKnightWhoCameToDinner/Adventures of Robin Hood HQ ep 37 The Knight Who Came to Dinner.mp4

@@ -1,0 +1,23 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Filmes | Cinema Aberto & Creative Commons
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="BigBuckBunny_2008" tvg-name="Big Buck Bunny (2008)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/512px-Big_buck_bunny_poster_big.jpg" group-title="Filmes | Cinema Aberto & Creative Commons" tvg-language="Universal",Big Buck Bunny (2008)
+#EXTGRP:Filmes | Cinema Aberto & Creative Commons
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+
+#EXTINF:-1 tvg-id="Sintel_2010" tvg-name="Sintel (A Busca do Dragão) (2010)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/512px-Sintel_poster.jpg" group-title="Filmes | Cinema Aberto & Creative Commons" tvg-language="en",Sintel (A Busca do Dragão) (2010)
+#EXTGRP:Filmes | Cinema Aberto & Creative Commons
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+
+#EXTINF:-1 tvg-id="TearsOfSteel_2012" tvg-name="Tears of Steel (Lágrimas de Aço) (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tears_of_Steel_poster.jpg/512px-Tears_of_Steel_poster.jpg" group-title="Filmes | Cinema Aberto & Creative Commons" tvg-language="en",Tears of Steel (Lágrimas de Aço) (2012)
+#EXTGRP:Filmes | Cinema Aberto & Creative Commons
+https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
+
+#EXTINF:-1 tvg-id="ElephantsDream_2006" tvg-name="Elephants Dream (O Sonho dos Elefantes) (2006)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Elephants_Dream_poster.jpg/512px-Elephants_Dream_poster.jpg" group-title="Filmes | Cinema Aberto & Creative Commons" tvg-language="en",Elephants Dream (O Sonho dos Elefantes) (2006)
+#EXTGRP:Filmes | Cinema Aberto & Creative Commons
+https://archive.org/download/ElephantsDream/ed_1024.mp4
+
+#EXTINF:-1 tvg-id="CosmosLaundromat_2015" tvg-name="Cosmos Laundromat (Lavanderia Cósmica) (2015)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cosmos_Laundromat_-_Poster.png/512px-Cosmos_Laundromat_-_Poster.png" group-title="Filmes | Cinema Aberto & Creative Commons" tvg-language="en",Cosmos Laundromat (Lavanderia Cósmica) (2015)
+#EXTGRP:Filmes | Cinema Aberto & Creative Commons
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4

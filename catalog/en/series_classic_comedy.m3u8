@@ -1,0 +1,39 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Series | Classic Comedy
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e01" tvg-name="The Beverly Hillbillies S01E01 - The Clampetts Strike Oil" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E01 - The Clampetts Strike Oil
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil/BH01_The_Clampetts_Strike_Oil_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e02" tvg-name="The Beverly Hillbillies S01E02 - Getting Settled" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E02 - Getting Settled
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/thebeverlyhillbilliesgettingsettledhq/The Beverly Hillbillies - Getting Settled HQ.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e06" tvg-name="The Beverly Hillbillies S01E06 - Trick Or Treat" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E06 - Trick Or Treat
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep06_Trick_Or_Treat/BH06_Trick_Or_Treat_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_beverly_hillbillies_s01e07" tvg-name="The Beverly Hillbillies S01E07 - The Servants" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_beverly_hillbillies.svg" group-title="Series | Classic Comedy" tvg-language="en",The Beverly Hillbillies S01E07 - The Servants
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Beverly_Hillbillies_Ep07_The_Servants/BH07_The_Servants_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_the_lucy_show_s01e01" tvg-name="The Lucy Show S01E01 - Lucy's Blind Date" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_the_lucy_show.svg" group-title="Series | Classic Comedy" tvg-language="en",The Lucy Show S01E01 - Lucy's Blind Date
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/lucyshow/lucyshow.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_the_lucy_show_s05e21" tvg-name="The Lucy Show S05E21 - Main Street U.S.A." tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_the_lucy_show.svg" group-title="Series | Classic Comedy" tvg-language="en",The Lucy Show S05E21 - Main Street U.S.A.
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/Lucy_Show_Main_Street/Lucy_MelTorme.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e01" tvg-name="The Dick Van Dyke Show S02E01 - Never Name a Duck" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E01 - Never Name a Duck
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_31_never_name_a_duck/dick_van_dyke_show_31_never_name_a_duck_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e04" tvg-name="The Dick Van Dyke Show S02E04 - Bank Book 6565696" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E04 - Bank Book 6565696
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_34_bank_book_6565696/dick_van_dyke_show_34_bank_book_6565696_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_dick_van_dyke_s02e09" tvg-name="The Dick Van Dyke Show S02E09 - The Night the Roof Fell In" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dick_van_dyke.svg" group-title="Series | Classic Comedy" tvg-language="en",The Dick Van Dyke Show S02E09 - The Night the Roof Fell In
+#EXTGRP:Series | Classic Comedy
+https://archive.org/download/dick_van_dyke_show_39_the_night_the_roof_fell_in/dick_van_dyke_show_39_the_night_the_roof_fell_in_512kb.mp4

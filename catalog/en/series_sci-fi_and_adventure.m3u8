@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Series | Sci-Fi & Adventure
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_flash_gordon_s01e05" tvg-name="Flash Gordon S01E05 - Akim the Terrible" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_flash_gordon.svg" group-title="Series | Sci-Fi & Adventure" tvg-language="en",Flash Gordon S01E05 - Akim the Terrible
+#EXTGRP:Series | Sci-Fi & Adventure
+https://archive.org/download/FlashGordon-AkimTheTerrible-1954-Ep1x05/FlashGordon105-AkimTheTerrible_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_flash_gordon_s01e19" tvg-name="Flash Gordon S01E19 - The Race Against Time" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_flash_gordon.svg" group-title="Series | Sci-Fi & Adventure" tvg-language="en",Flash Gordon S01E19 - The Race Against Time
+#EXTGRP:Series | Sci-Fi & Adventure
+https://archive.org/download/FlashGordon-TheRaceAgainstTime-1955/FlashGordon119-TheRaceAgainstTime_512kb.mp4

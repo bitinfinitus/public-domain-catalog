@@ -1,0 +1,15 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Séries | Ficção Científica & Sobrenatural
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s01e03" tvg-name="One Step Beyond S01E03 - O Sonho" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Séries | Ficção Científica & Sobrenatural" tvg-language="en",One Step Beyond S01E03 - O Sonho
+#EXTGRP:Séries | Ficção Científica & Sobrenatural
+https://archive.org/download/OneStepBeyondTheDream/OneStepBeyondTheDream.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s01e13" tvg-name="One Step Beyond S01E13 - O Navegador" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Séries | Ficção Científica & Sobrenatural" tvg-language="en",One Step Beyond S01E13 - O Navegador
+#EXTGRP:Séries | Ficção Científica & Sobrenatural
+https://archive.org/download/S1E13THENAVIGATOR/S1E13 - THE NAVIGATOR.mp4
+
+#EXTINF:-1 tvg-id="ep_one_step_beyond_s02e08" tvg-name="One Step Beyond S02E08 - Mensagem de Clara" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_one_step_beyond.svg" group-title="Séries | Ficção Científica & Sobrenatural" tvg-language="en",One Step Beyond S02E08 - Mensagem de Clara
+#EXTGRP:Séries | Ficção Científica & Sobrenatural
+https://archive.org/download/S2E8MESSAGEFROMCLARA/S2E8 - MESSAGE FROM CLARA.mp4

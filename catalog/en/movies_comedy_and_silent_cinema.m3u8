@@ -1,0 +1,39 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Movies | Comedy & Silent Cinema
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="The_General_Buster_Keaton" tvg-name="The General (1926)" tvg-logo="https://archive.org/services/img/The_General_Buster_Keaton" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",The General (1926)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/The_General_Buster_Keaton/The_General.mp4
+
+#EXTINF:-1 tvg-id="TheImmigrant" tvg-name="The Immigrant (1917)" tvg-logo="https://archive.org/services/img/TheImmigrant" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",The Immigrant (1917)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/TheImmigrant/The-Immigrant-v2.mp4
+
+#EXTINF:-1 tvg-id="the-flying-deuces" tvg-name="The Flying Deuces (1939)" tvg-logo="https://archive.org/services/img/the-flying-deuces" group-title="Movies | Comedy & Silent Cinema" tvg-language="en",The Flying Deuces (1939)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/the-flying-deuces/The%20Flying%20Deuces.mp4
+
+#EXTINF:-1 tvg-id="steamboat_bill_ipod" tvg-name="Steamboat Bill, Jr. (1928)" tvg-logo="https://archive.org/services/img/steamboat_bill_ipod" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",Steamboat Bill, Jr. (1928)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/steamboat_bill_ipod/steamboat_bill.mp4
+
+#EXTINF:-1 tvg-id="MyMovie_20190318" tvg-name="Sherlock Jr. (1924)" tvg-logo="https://archive.org/services/img/MyMovie_20190318" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",Sherlock Jr. (1924)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/MyMovie_20190318/My%20Movie.mp4
+
+#EXTINF:-1 tvg-id="TheKidAutoRaceinVenice" tvg-name="The Kid (1921)" tvg-logo="https://archive.org/services/img/TheKidAutoRaceinVenice" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",The Kid (1921)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/TheKidAutoRaceinVenice/The_Kid_Auto_Race_In_Venice_512kb.mp4
+
+#EXTINF:-1 tvg-id="the-gold-rush-film-1925" tvg-name="The Gold Rush (1925)" tvg-logo="https://archive.org/services/img/the-gold-rush-film-1925" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",The Gold Rush (1925)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/the-gold-rush-film-1925/The-Gold-Rush-1925.mp4
+
+#EXTINF:-1 tvg-id="TheVagabond1916" tvg-name="The Vagabond (1916)" tvg-logo="https://archive.org/services/img/TheVagabond1916" group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",The Vagabond (1916)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/TheVagabond1916/The-Vagabond-v2.mp4
+
+#EXTINF:-1 tvg-id="SafetyLastHaroldLloyd1923.FullMovieexcellentQuality." tvg-name="Safety Last! (1923)" tvg-logo="https://archive.org/services/img/SafetyLastHaroldLloyd1923.FullMovieexcellentQuality." group-title="Movies | Comedy & Silent Cinema" tvg-language="silent",Safety Last! (1923)
+#EXTGRP:Movies | Comedy & Silent Cinema
+https://archive.org/download/SafetyLastHaroldLloyd1923.FullMovieexcellentQuality./Safety%20Last%20-%20Harold%20Lloyd%201923.%20Full%20movie%2Cexcellent%20quality..mp4

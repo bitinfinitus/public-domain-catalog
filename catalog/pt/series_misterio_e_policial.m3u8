@@ -1,0 +1,23 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Séries | Mistério & Policial
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e08" tvg-name="Sherlock Holmes S01E08 - O Caso da Múmia que Ri" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Séries | Mistério & Policial" tvg-language="en",Sherlock Holmes S01E08 - O Caso da Múmia que Ri
+#EXTGRP:Séries | Mistério & Policial
+https://archive.org/download/Sherlock_Holmes_TCOT_Laughing_Mummy/TheCaseOfTheLaughingMummy.ia.mp4
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e10" tvg-name="Sherlock Holmes S01E10 - O Caso da Filha do Tirano" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Séries | Mistério & Policial" tvg-language="en",Sherlock Holmes S01E10 - O Caso da Filha do Tirano
+#EXTGRP:Séries | Mistério & Policial
+https://archive.org/download/SherlockHolmes-TheCaseOfTheTyrantsDaughter/TyrantsDaughter_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_sherlock_holmes_s01e11" tvg-name="Sherlock Holmes S01E11 - O Caso do Pudim de Natal" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_sherlock_holmes.svg" group-title="Séries | Mistério & Policial" tvg-language="en",Sherlock Holmes S01E11 - O Caso do Pudim de Natal
+#EXTGRP:Séries | Mistério & Policial
+https://archive.org/download/sherlock-holmes-the-case-of-the-christmas-pudding-1955-christmas-mystery/Sherlock Holmes - The Case of the Christmas Pudding (1955 Christmas, Mystery).mp4
+
+#EXTINF:-1 tvg-id="ep_dragnet_s01e05" tvg-name="Dragnet S01E05 - The Big Cast" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dragnet.svg" group-title="Séries | Mistério & Policial" tvg-language="en",Dragnet S01E05 - The Big Cast
+#EXTGRP:Séries | Mistério & Policial
+https://archive.org/download/DragnetS01E05TheBigCast/Dragnet S01E05 The Big Cast - Watch Crime Series Online.mp4
+
+#EXTINF:-1 tvg-id="ep_dragnet_s02e15" tvg-name="Dragnet S02E15 - The Big Betty" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_dragnet.svg" group-title="Séries | Mistério & Policial" tvg-language="en",Dragnet S02E15 - The Big Betty
+#EXTGRP:Séries | Mistério & Policial
+https://archive.org/download/DragnetTheBigBetty/Dragnet - The Big Bar.mp4

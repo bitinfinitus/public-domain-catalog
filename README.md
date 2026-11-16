@@ -96,26 +96,39 @@ Os 30 canais abertos estão categorizados por país de origem em ambas as versõ
 
 ---
 
-## 🗂️ Categorias de Cinema e Animação
+## 🗂️ Arquitetura das Listas: Canais, Filmes & Séries (Padrão IPTV / Xtream)
 
-| Versão em Português | English Version | Qtd | Destaques |
-| :--- | :--- | :---: | :--- |
-| **Séries Clássicas de TV (Domínio Público)** | **Classic TV Series (Public Domain)** | **26** | *A Família Buscapé* (Beverly Hillbillies), *Sherlock Holmes* (1954), *Bonanza*, *One Step Beyond*, *The Lucy Show*, *Robin Hood* (1955), *The Dick Van Dyke Show*, *Dragnet*, *Flash Gordon* |
-| **Animações Clássicas de Domínio Público** | **Classic Public Domain Animation** | **46** | Popeye, Betty Boop, Superman, Felix, Merrie Melodies, Oswald, Little Lulu, Casper, Mighty Mouse, Color Classics, Inkwell |
-| **Terror, Sci-Fi & Cult Clássico** | **Classic Horror, Sci-Fi & Cult** | 10 | *Night of the Living Dead*, *Nosferatu*, *House on Haunted Hill*, *Metropolis*, *White Zombie*, *Plan 9* |
-| **Comédia & Cinema Mudo** | **Comedy & Silent Cinema** | 9 | Charlie Chaplin (*The Kid*, *The Gold Rush*), Buster Keaton (*The General*), Harold Lloyd, Laurel & Hardy |
-| **Film Noir, Policial & Mistério** | **Film Noir & Mystery** | 9 | Sherlock Holmes com Basil Rathbone, *D.O.A.*, *Scarlet Street*, *Detour*, *Suddenly* |
-| **Clássicos do Cinema Mundial** | **World Cinema Classics** | 7 | *Charade*, *His Girl Friday*, *A Star Is Born*, *Meet John Doe*, *The Snows of Kilimanjaro* |
-| **Arquivos Históricos & Cinejornais** | **Historical Archives & Vintage Newsreels** | 6 | Posse JK 1956, Getúlio Vargas 1953, Copa 1962, Prelinger Archives, Georges Méliès 1902 |
-| **Cinema Aberto & Creative Commons** | **Open Cinema & Creative Commons** | 5 | Blender Foundation (*Big Buck Bunny*, *Sintel*, *Tears of Steel*, *Elephants Dream*, *Cosmos Laundromat*) |
-| **Patrimônio do Cinema Brasileiro** | **Brazilian Cinema Heritage** | 4 | *Limite* (1931), *Ganga Bruta* (1933), *O Descobrimento do Brasil* (1937), *Brasilianas* |
-| **Faroeste & Western** | **Classic Westerns** | 3 | John Wayne: *McLintock!*, *Angel and the Badman*, *Blue Steel* |
+O catálogo segue a especificação internacional de players IPTV (compatível com **TiviMate**, **IPTV Smarters Pro**, **Kodi**, **Jellyfin** e **VLC**), organizando automaticamente as 3 abas principais:
+
+1. **Canais ao Vivo (`Canais ao Vivo - <País/Região>`)**: 30 emissoras abertas com logos vetoriais oficiais em SVG.
+2. **Filmes VOD (`Filmes \| <Gênero>`)**: 99 títulos com posters de cinema de alta resolução.
+3. **Séries de TV (`Séries \| <Gênero>`)**: 26 episódios estruturados com a nomenclatura padrão `Nome da Série SxxEyy - Título do Episódio`, permitindo que os players agrupem os episódios em temporadas e exibam o card único da série com seu poster oficial.
+
+| Versão em Português | English Version | Tipo | Qtd | Destaques |
+| :--- | :--- | :---: | :---: | :--- |
+| **Séries \| Comédia Clássica** | **Series \| Classic Comedy** | Série | 9 | *A Família Buscapé* (S01E01 a S01E07), *The Lucy Show*, *The Dick Van Dyke Show* |
+| **Séries \| Mistério & Policial** | **Series \| Mystery & Crime** | Série | 5 | *Sherlock Holmes 1954* (S01E08 a S01E11), *Dragnet* (S01E05, S02E15) |
+| **Séries \| Faroeste Clássico** | **Series \| Classic Western** | Série | 4 | *Bonanza* (S01E20, S01E32, S02E01, S02E03) |
+| **Séries \| Ficção Científica & Sobrenatural** | **Series \| Sci-Fi & Supernatural** | Série | 3 | *One Step Beyond* (S01E03, S01E13, S02E08) |
+| **Séries \| Aventura Clássica** | **Series \| Classic Adventure** | Série | 3 | *As Aventuras de Robin Hood 1955* (S01E18, S01E31, S01E37) |
+| **Séries \| Ficção Científica & Aventura** | **Series \| Sci-Fi & Adventure** | Série | 2 | *Flash Gordon 1954* (S01E05, S01E19) |
+| **Filmes \| Animações Clássicas de Domínio Público** | **Movies \| Classic Public Domain Animation** | Filme | 46 | Popeye, Betty Boop, Superman, Felix, Merrie Melodies, Oswald, Little Lulu, Casper, Mighty Mouse, Color Classics, Inkwell |
+| **Filmes \| Terror, Sci-Fi & Cult Clássico** | **Movies \| Classic Horror, Sci-Fi & Cult** | Filme | 10 | *Night of the Living Dead*, *Nosferatu*, *House on Haunted Hill*, *Metropolis*, *White Zombie*, *Plan 9*, *The Last Man on Earth* |
+| **Filmes \| Comédia & Cinema Mudo** | **Movies \| Comedy & Silent Cinema** | Filme | 9 | Charlie Chaplin (*The Kid*, *The Gold Rush*), Buster Keaton (*The General*, *Steamboat Bill, Jr.*), Harold Lloyd, Laurel & Hardy |
+| **Filmes \| Film Noir, Policial & Mistério** | **Movies \| Film Noir & Mystery** | Filme | 9 | Sherlock Holmes (*Terror by Night*, *Woman in Green*), *D.O.A.*, *Scarlet Street*, *Detour*, *Suddenly* |
+| **Filmes \| Clássicos do Cinema Mundial** | **Movies \| World Cinema Classics** | Filme | 7 | *Charade*, *His Girl Friday*, *A Star Is Born*, *Meet John Doe*, *The Snows of Kilimanjaro* |
+| **Filmes \| Arquivos Históricos & Cinejornais** | **Movies \| Historical Archives & Vintage Newsreels** | Filme | 6 | Posse JK 1956, Getúlio Vargas 1953, Copa 1962, Prelinger Archives, Georges Méliès 1902 |
+| **Filmes \| Cinema Aberto & Creative Commons** | **Movies \| Open Cinema & Creative Commons** | Filme | 5 | Blender Foundation (*Big Buck Bunny*, *Sintel*, *Tears of Steel*, *Elephants Dream*, *Cosmos Laundromat*) |
+| **Filmes \| Patrimônio do Cinema Brasileiro** | **Movies \| Brazilian Cinema Heritage** | Filme | 4 | *Limite* (1931), *Ganga Bruta* (1933), *O Descobrimento do Brasil* (1937), *Brasilianas* |
+| **Filmes \| Faroeste & Western** | **Movies \| Classic Westerns** | Filme | 3 | John Wayne: *McLintock!*, *Angel and the Badman*, *Blue Steel* |
 
 ---
 
-## 🎨 Logos Vetoriais Padronizados em SVG (`logos/`)
+## 🎨 Logos e Posters Vetoriais Padronizados em SVG (`logos/`)
 
-A pasta [`logos/`](file:///c:/dev/public-domain-catalog/logos/) contém **30 arquivos vetoriais SVG de referência limpos e de alta resolução**, um para cada canal, garantindo que o logo nunca fique quebrado no player.
+A pasta [`logos/`](file:///c:/dev/public-domain-catalog/logos/) contém:
+- **30 arquivos vetoriais SVG de canais abertos**: um para cada emissora, com links diretos `https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/<canal>.svg`.
+- **9 posters vetoriais SVG dedicados para as séries**: garantindo a exibição do card oficial da série (`poster_<serie>.svg`) em qualquer player IPTV.
 
 ---
 

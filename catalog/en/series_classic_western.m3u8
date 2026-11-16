@@ -1,0 +1,19 @@
+#EXTM3U
+#PLAYLIST:Public Domain - Series | Classic Western
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e20" tvg-name="Bonanza S01E20 - The Fear Merchants" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S01E20 - The Fear Merchants
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-TheFearMerchants/Bonanza_-_The_Fear_Merchants_S01-E20_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s01e32" tvg-name="Bonanza S01E32 - Death at Dawn" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S01E32 - Death at Dawn
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-DeathAtDawn/Bonanza_-_Death_At_Dawn_S01-E32_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e01" tvg-name="Bonanza S02E01 - Showdown" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S02E01 - Showdown
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza-Showdown/Bonanza_-_Showdown_S02-E01_512kb.mp4
+
+#EXTINF:-1 tvg-id="ep_bonanza_s02e03" tvg-name="Bonanza S02E03 - Breed of Violence" tvg-logo="https://raw.githubusercontent.com/bitinfinitus/public-domain-catalog/refs/heads/main/logos/poster_bonanza.svg" group-title="Series | Classic Western" tvg-language="en",Bonanza S02E03 - Breed of Violence
+#EXTGRP:Series | Classic Western
+https://archive.org/download/Bonanza_-_Breed_Of_Violence/Bonanza_-_Breed_Of_Violence_512kb.mp4

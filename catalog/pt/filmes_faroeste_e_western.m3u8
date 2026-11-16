@@ -1,0 +1,15 @@
+#EXTM3U
+#PLAYLIST:Domínio Público - Filmes | Faroeste & Western
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="BlueSteel" tvg-name="Blue Steel (1934)" tvg-logo="https://archive.org/services/img/BlueSteel" group-title="Filmes | Faroeste & Western" tvg-language="en",Blue Steel (1934)
+#EXTGRP:Filmes | Faroeste & Western
+https://archive.org/download/BlueSteel/BlueSteel.mp4
+
+#EXTINF:-1 tvg-id="TheLuckyTexan" tvg-name="The Lucky Texan (1934)" tvg-logo="https://archive.org/services/img/TheLuckyTexan" group-title="Filmes | Faroeste & Western" tvg-language="en",The Lucky Texan (1934)
+#EXTGRP:Filmes | Faroeste & Western
+https://archive.org/download/TheLuckyTexan/TheLuckyTexan.mp4
+
+#EXTINF:-1 tvg-id="angel_and_the_badman" tvg-name="Angel and the Badman (O Anjo e o Bandido) (1947)" tvg-logo="https://archive.org/services/img/angel_and_the_badman" group-title="Filmes | Faroeste & Western" tvg-language="en",Angel and the Badman (O Anjo e o Bandido) (1947)
+#EXTGRP:Filmes | Faroeste & Western
+https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mp4
